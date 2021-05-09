@@ -1,0 +1,97 @@
+﻿;;;groupe 1;groupe 2;groupe 3;groupe 4;groupe 5;groupe 6;groupe 7;groupe 8
+12;CMP;sg;Anne; ricorda ;all'attore; che; il pubblico; ha riso; freneticamente; dopo ogni spettacolo .
+1;CMP;sg;Roland; fa notare; al trasgressore; che ;il poliziotto;è intervenuto; segretamente ;per un mese .
+1;CMP;pl;Roland; fa notare ;ai trasgressori;che; il poliziotto ;è intervenuto ;segretamente; per un mese . 
+1;ORC;sg;Roland; sorride; al trasgressore ;che; il poliziotto; ha indagato; segretamente ;per un mese .
+1;ORC;pl;Roland ;sorride; ai trasgressori; che ;il poliziotto ;ha indagato ;segretamente ;per un mese .  
+2;CMP;sg;Julia; fa notare; allo studente; che ;l'oratore; sta sbadigliando; frequentemente; dall'inizio .
+2;CMP;pl;Julia ;fa notare; agli studenti; che; l'oratore ;sta sbadigliando; frequentemente; dall'inizio . 
+2;ORC;sg;Julia ;sorride; allo studente; che; l'oratore; ha messo a dormire ;seriamente; fin dall'inizio .
+2;ORC;pl;Julia ;sorride; agli studenti; che ;l'oratore; ha fatto addormentare; seriamente ;fin dall'inizio .
+3;CMP;sg;Paul ;spiega ;all'elettore ;che ;il politico ;ha mentito;chiaramente ; fin dalle elezioni . 
+3;CMP;pl;Paul; spiega ;agli elettori; che ;il politico ;ha mentito;chiaramente ; fin dalle elezioni . 
+3;ORC;sg;Paul ;pensa ;all'elettore ;che; il politico ;ha deluso;francamente; fin dalle elezioni . 
+3;ORC;pl;Paul ;pensa ;agli elettori ;che ;il politico;ha deluso;profondamente; fin dalle elezioni .  
+4;CMP;sg;Louise; ripete; alla ragazza; che; la strega; fa smorfie; di proposito; per halloween .
+4;CMP;pl;Louise; ripete; alle ragazze; che; la strega ;fa smorfie; di proposito; per halloween . 
+4;ORC;sg;Louise ;sorride ;alla ragazza; che; la strega; spaventa ;di proposito; per halloween . 
+4;ORC;pl;Louise; sorride; alle ragazze; che; la strega; spaventa; di proposito; per halloween . 
+5;CMP;sg;Laura; dice; al pastore; che ;la pecora; sta sanguinando ;stupidamente; dopo la tosatura .
+5;CMP;pl;Laura ;dice; ai pastori; che; la pecora; sta sanguinando ;stupidamente ;dopo la tosatura . 
+5;ORC;sg;Laura ;sorride ;al pastore ;che; la pecora ;sta seguendo ;stupidamente; dopo la tosatura . 
+5;ORC;pl;Laura; sorride; ai pastori; che; la pecora; sta seguendo; stupidamente; dopo la tosatura .  
+6;CMP;sg;Peter; annuncia; al candidato; che; la giuria; deliberera; fermamente; dopo l'audizione .  
+6;CMP;pl;Peter; annuncia ;ai candidati; che ;la giuria; deliberera; fermamente; dopo l'audizione . 
+6;ORC;sg;Peter; chiama ;il candidato; che; la giuria; aspettera; con fermezza; dopo l'audizione . 
+6;ORC;pl;Peter; chiama; i candidati; che; la giuria; aspettera; con fermezza; dopo l'audizione . 
+7;CMP;sg;Mark; ripete; alla popolazione; che ;l'infelicita; continua ;inevitabilmente; dopo la tragedia . 
+7;CMP;pl;Mark ;ripete; alle popolazioni; che; l'infelicita ;continua ;inevitabilmente; dopo la tragedia .
+7;ORC;sg;Mark ;pensa ;alla persona; che ;l'infelicita; unisce; inevitabilmente ;dopo la tragedia .  
+7;ORC;pl;Mark; pensa; alle persone ;che; l'infelicita; unisce; inevitabilmente; dopo la tragedia .  
+8;CMP;sg;Claire; ricorda; all'operaio; che; il caminetto; ha fumato ;molto; dopo i lavori . 
+8;CMP;pl;Claire ;ricorda; agli operai; che; il caminetto; ha fumato ;molto; dopo i lavori . 
+8;ORC;sg;Claire; attira; l'operaio ;che; il caminetto; ha annerito; molto ;dai lavori . 
+8;ORC;pl;Claire; attira; gli operai; che; il caminetto; ha annerito; molto; dai lavori . 
+9;CMP;sg;Patricia; dice; al cliente ;che ;il cappello ;è molto gradevole;a vedersi; a causa delle piume .
+9;CMP;pl;Patricia ;dice; ai clienti; che ;il cappello;è molto gradevole;a vedersi; a causa delle piume .
+9;ORC;sg;Patricia ;parla; con il cliente ;che ;il cappello; rende alto; a causa  ;delle piume . 
+9;ORC;pl;Patricia ;parla ;con i clienti; che ;il cappello; rende alti; a causa ;delle piume . 
+10;CMP;sg;Aude ;ripete; all'atleta; che ;il massaggio; inizia; sempre; dopo l'allenamento . 
+10;CMP;pl;Aude ;ripete ;agli atleti; che; il massaggio; inizia; sempre ;dopo l'allenamento . 
+10;ORC;sg;Aude; e apprezzata; dall'atleta; che; il massaggio;rilassa; sempre; dopo l'allenamento . 
+10;ORC;pl;Aude; e apprezzata; dagli atleti; che ;il massaggio ;rilassa; sempre ;dopo l'allenamento .
+11;CMP;sg;Luke; dice; alla ragazza; che; il seduttore; ha chiacchierato; instancabilmente; per un'ora . 
+11;CMP;pl;Luke ;dice; alle ragazze; che ;il seduttore; ha chiacchierato; instancabilmente; per un'ora .
+11;ORC;sg;Luke ;pensa ;alla ragazza ;che; il seduttore; sta corteggiando;assiduamente; da un'ora . 
+11;ORC;pl;Luke ;pensa; alle ragazze; che; il seduttore; sta corteggiando;assiduamente; da un'ora . 
+12;CMP;pl;Anne ;ricorda ;agli attori ;che ;il pubblico; ha riso; freneticamente ;dopo ogni spettacolo . 
+12;ORC;sg;Anne ;parla; con l'attore ;che; il pubblico; ha applaudito;freneticamente; dopo ogni spettacolo . 
+12;ORC;pl;Anne ;parla; con gli attori; che; il pubblico ;ha applaudito ;freneticamente; dopo ogni spettacolo . 
+13;CMP;sg;Joan; ricorda; al vicino ;che; l'escursione;è fallita;raramente ; alla fine dell'anno .
+13;CMP;pl;Joan; ricorda ;ai vicini; che ;l'escursione;è  fallita;raramente; alla fine dell'anno . 
+13;ORC;sg;Joan; parla ;con il vicino; che; l'escursione; ha entusiasmato ;raramente ;alla fine dell'anno . 
+13;ORC;pl;Joan ;parla; con i vicini; che ;l'escursione ;ha entusiasmato ;raramente ;alla fine dell'anno . 
+14;CMP;sg;Joan; ricorda; all'avvocato; che ;la delusione;rimane ;inevitabilmente; dopo il processo . 
+14;CMP;pl;Joan ;ricorda ;agli avvocati; che ;la delusione ;rimane ;inevitabilmente ;dopo il processo .
+14;ORC;sg;Joan ;chiama ;l'avvocato; che ;la delusione; rattrista;inevitabilmente; dopo il processo . 
+14;ORC;pl;Joan ;chiama ;gli avvocati; che ;la delusione ;rattrista; inevitabilmente ; dopo il processo . 
+15;CMP;sg;Sebastian ;rivela; al paziente; che; il tranquillante; agisce; progressivamente; da un anno .
+15;CMP;pl;Sebastian ;rivela ;ai pazienti; che; il tranquillante; agisce; progressivamente; da un anno .  
+15;ORC;sg;Sebastian; sorride ;al paziente; che ;il tranquillante;sta indebolendo;progressivamente; da un anno . 
+15;ORC;pl;Sebastian ;sorride; ai pazienti; che; il tranquillante;sta indebolendo;progressivamente; da un anno . 
+16;CMP;sg; Jerome ;fa notare ;al prigioniero; che ;il guardiano;entra; a volte ; nel cortile .
+16;CMP;pl;Jerome; fa notare; ai prigionieri; che ;il guardiano;entra; a volte ; nel cortile .
+16;ORC;sg;Jerome; parla ;con il prigioniero; che ;il guardiano;lascia  uscire; a volte ; uscire nel cortile . 
+16;ORC;pl;Jerome ;parla ;con i prigionieri; che ;il guardiano;lascia  uscire; a volte ; nel cortile .
+17;CMP;sg;Benjamin; ricorda; all'adolescente; che; l'educatore; ha bevuto; frequentemente; per alcuni anni . 
+17;CMP;pl;Benjamin; ricorda ;agli adolescenti; che ;l'educatore; ha bevuto; frequentemente; per alcuni anni . 
+17;ORC;sg;Benjamin; pensa; all'adolescente; che; l'educatore; picchia ;spesso ;da alcuni anni . 
+17;ORC;pl;Benjamin; pensa ;agli adolescenti ;che ;l'educatore ;picchia ;spesso; da alcuni anni . 
+18;CMP;sg;Fred ;dice ;al bambino ;che; il sacerdote;è partito; felicemente; dopo ogni servizio .
+18;CMP;pl;Fred ;dice ;ai bambini; che ;il sacerdote ;sia partito ;felicemente; dopo ogni servizio . 
+18;ORC;sg;Fred ;sorride; al bambino ;che ;il sacerdote; ha benedetto; felicemente; dopo ogni servizio . 
+18;ORC;pl;Fred ;sorride ;ai bambini; che; il sacerdote; ha benedetto; felicemente; dopo ogni servizio . 
+19;CMP;sg;Charles; spiega; alla vittima; che; il trattamento; sta iniziando; lentamente; ma sicuramente . 
+19;CMP;pl;Charles ;spiega ;alle vittime ;che; il trattamento; sta iniziando ;lentamente; ma sicuramente .
+19;ORC;sg;Charles ;sorride; alla vittima; che ;il trattamento; sta curando ;lentamente; ma sicuramente .
+19;ORC;pl;Charles ;sorride ;alle vittime ;che ;il trattamento ;sta curando; lentamente; ma sicuramente . 
+20;CMP;sg;Liza ;promette; alla donna; che ;la dieta;puo essere gestita; sorprendentemente; facilmente . 
+20;CMP;pl;Liza ;promette ;alle donne ;che; la dieta; puo essere gestita; sorprendentemente ;facilmente .
+20;ORC;sg;Liza ;parla; con la donna; la cui; dieta; è gestita ;sorprendentemente ;facilmente . 
+20;ORC;pl;Liza ;parla; con le donne; la cui; dieta; è gestita; sorprendentemente; facilmente . 
+21;CMP;sg;Giles; ricorda; all'operaio; che; lo sforzo; raddoppiera; inevitabilmente; con il tempo . 
+21;CMP;pl;Giles ;ricorda; agli operai; che ;lo sforzo; raddoppiera; inevitabilmente; con il tempo . 
+21;ORC;sg;Giles; dice; all'operaio; che; lo sforzo; è  faticoso;inevitabilmente; con il tempo . 
+21;ORC;pl;Giles; dice; agli operai; che; lo sforzo; è faticoso ; inevitabilmente;con il tempo . 
+22;CMP;sg;Jack; spiega; al proprietario; che; lo stress; arriva; prematuramente; nonostante i farmaci anti-ansia . 
+22;CMP;pl;Jack ;spiega; ai proprietari; che ;lo stress ;arriva; prematuramente ;nonostante i farmaci anti - ansia . 
+22;ORC;sg;Jack; pensa; al proprietario ;che ;lo stress; ha invecchiato; prematuramente; nonostante i farmaci anti - ansia . 
+22;ORC;pl;Jack ;pensa; ai proprietari ;che ;lo stress; ha invecchiato; prematuramente; nonostante i farmaci anti - ansia . 
+23;CMP;sg;Patrick; ripete; alla famiglia; che; le vacanze; durano; ogni anno; per dieci giorni .
+23;CMP;pl;Patrick ;ripete; alle famiglie; che; le vacanze; durano; ogni anno; per dieci giorni . 
+23;ORC;sg;Patrick; pensa; alla famiglia; che ;le vacanze; hanno riunito; ogni anno ;per dieci giorni . 
+23;ORC;pl;Patrick ;pensa ;alle famiglie; che; le vacanze; hanno riunito; ogni anno ;per dieci giorni . 
+24;CMP;sg;Bernard; ricorda ;al giocatore ;che ;il casino ;sta chiudendo;purtroppo ; molto presto . 
+24;CMP;pl;Bernard ;ricorda ;ai giocatori; che ;il casino ;sta chiudendo;purtroppo ; molto presto . 
+24;ORC;sg;Bernard ;ricorda; al giocatore ;che; il casino ;rovina; purtroppo ;molto velocemente . 
+24;ORC;pl;Bernard; ricorda; ai giocatori; che; il casino; rovina; purtroppo; molto velocemente . 

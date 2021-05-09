@@ -1,0 +1,169 @@
+﻿numero;variable;langue;phrase;;;;;;;
+1;1;anglais;I;know;that;an indication ;;;;caused us to recommend therapy last night .
+1;2;anglais;I;know;that;;;;;caused us to recommend therapy last night .
+1;3;anglais;I;know;what;an indication ;;;;caused us to recommend therapy last night .
+1;4;anglais;I;know;what;;;;;caused us to recommend therapy last night .
+1;5;anglais;I;know;that;an indication ;that ;signaled;depression;caused us to recommend therapy last night .
+1;6;anglais;I;know;that;an indication ;that ;signaled;;caused us to recommend therapy last night .
+1;7;anglais;I;know;what;an indication ;that ;signaled;depression;caused us to recommend therapy last night .
+1;8;anglais;I;know;what;an indication ;that ;signaled;;caused us to recommend therapy last night .
+2;1;anglais;I;remember;that;the gift ;;;;cost a lot of money at the last minute .
+2;2;anglais;I;remember;that;;;;;cost a lot of money at the last minute .
+2;3;anglais;I;remember;what;the gift ;;;;cost a lot of money at the last minute .
+2;4;anglais;I;remember;what;;;;;cost a lot of money at the last minute .
+2;5;anglais;I;remember;that;the gift ;that ;we bought;Mary;cost a lot of money at the last minute .
+2;6;anglais;I;remember;that;the gift ;that ;we bought;;cost a lot of money at the last minute .
+2;7;anglais;I;remember;who;the gift ;that ;we bought;Mary;cost a lot of money at the last minute .
+2;8;anglais;I;remember;who;the gift ;that ;we bought;;cost a lot of money at the last minute .
+3;1;anglais;The newspaper;reported;that;the novel ;;;;received favorable reviews in the press .
+3;2;anglais;The newspaper;reported;that;;;;;received favorable reviews in the press .
+3;3;anglais;The newspaper;reported;what;the novel ;;;;received favorable reviews in the press .
+3;4;anglais;The newspaper;reported;what;;;;;received favorable reviews in the press .
+3;5;anglais;The newspaper;reported;that;the novel ;that ;provoked;the famous author;received favorable reviews in the press .
+3;6;anglais;The newspaper;reported;that;the novel ;that ;provoked;;received favorable reviews in the press .
+3;7;anglais;The newspaper;reported;who;the novel ;that ;provoked;the famous author;received favorable reviews in the press .
+3;8;anglais;The newspaper;reported;who;the novel ;that ;provoked;;received favorable reviews in the press .
+4;1;anglais;I;know;that;the painting ;;;;fetched a high price at auction sometime last year .
+4;2;anglais;I;know;that;;;;;fetched a high price at auction sometime last year .
+4;3;anglais;I;know;what;the painting ;;;;fetched a high price at auction sometime last year .
+4;4;anglais;I;know;what;;;;;fetched a high price at auction sometime last year .
+4;5;anglais;I;know;that;the painting ;that ;depicted ;Monet;fetched a high price at auction sometime last year .
+4;6;anglais;I;know;that;the painting ;that ;depicted ;;fetched a high price at auction sometime last year .
+4;7;anglais;I;know;who;the painting ;that ;depicted ;Monet;fetched a high price at auction sometime last year .
+4;8;anglais;I;know;who;the painting ;that ;depicted ;;fetched a high price at auction sometime last year .
+5;1;anglais;You;remember;that;the instructions ;;;;fell into the furnace much to our regret .
+5;2;anglais;You;remember;that;;;;;fell into the furnace much to our regret .
+5;3;anglais;You;remember;what;the instructions ;;;;fell into the furnace much to our regret .
+5;4;anglais;You;remember;what;;;;;fell into the furnace much to our regret .
+5;5;anglais;You;remember;that;the instructions ;that ;that showed how to operate;the submarine;fell into the furnace much to our regret .
+5;6;anglais;You;remember;that;the instructions ;that ;that showed how to operate;;fell into the furnace much to our regret .
+5;7;anglais;You;remember;what;the instructions ;that ;that showed how to operate;the submarine;fell into the furnace much to our regret .
+5;8;anglais;You;remember;what;the instructions ;that ;that showed how to operate;;fell into the furnace much to our regret .
+6;1;anglais;She;told me;that;an allergy ;;;;causes him to avoid dining out ever since he was young .
+6;2;anglais;She;told me;that;;;;;causes him to avoid dining out ever since he was young .
+6;3;anglais;She;told me;what;an allergy ;;;;causes him to avoid dining out ever since he was young .
+6;4;anglais;She;told me;what;;;;;causes him to avoid dining out ever since he was young .
+6;5;anglais;She;told me;that;an allergy ;that ;is caused by;peanuts;causes him to avoid dining out ever since he was young .
+6;6;anglais;She;told me;that;an allergy ;that ;is caused by;;causes him to avoid dining out ever since he was young .
+6;7;anglais;She;told me;what;an allergy ;that ;is caused by;peanuts;causes him to avoid dining out ever since he was young .
+6;8;anglais;She;told me;what;an allergy ;that ;is caused by;;causes him to avoid dining out ever since he was young .
+7;1;anglais;She;knows ;that ;the delivery ;;;;arrived around noon last Tuesday .
+7;2;anglais;She;knows;that;;;;;arrived around noon last Tuesday .
+7;3;anglais;She;knows;what;the delivery ;;;;arrived around noon last Tuesday .
+7;4;anglais;She;knows;what;;;;;arrived around noon last Tuesday .
+7;5;anglais;She;knows;that;the delivery ;that ;shocked;Sarah;arrived around noon last Tuesday .
+7;6;anglais;She;knows;that;the delivery ;that ;shocked;;arrived around noon last Tuesday .
+7;7;anglais;She;knows;who;the delivery ;that ;shocked;Sarah;arrived around noon last Tuesday .
+7;8;anglais;She;knows;who;the delivery ;that ;shocked;;arrived around noon last Tuesday .
+8;1;anglais;We all;remember;that;the package ;;;;got lost in the mail in the holiday rush .
+8;2;anglais;We all;remember;that;;;;;got lost in the mail in the holiday rush .
+8;3;anglais;We all;remember;what;the package ;;;;got lost in the mail in the holiday rush .
+8;4;anglais;We all;remember;what;;;;;got lost in the mail in the holiday rush .
+8;5;anglais;We all;remember;that;the package;that ;described to;Robert;got lost in the mail in the holiday rush .
+8;6;anglais;We all;remember;that;the package;that ;described to;;got lost in the mail in the holiday rush .
+8;7;anglais;We all;remember;who;the package;that ;described to;Robert;got lost in the mail in the holiday rush .
+8;8;anglais;We all;remember;who;the package;that ;described to;;got lost in the mail in the holiday rush .
+9;1;anglais;My friend;reported;that;the symphony ;;;;moved my mother to tears yesterday night .
+9;2;anglais;My friend;reported;that;;;;;moved my mother to tears yesterday night .
+9;3;anglais;My friend;reported;what;the symphony ;;;;moved my mother to tears yesterday night .
+9;4;anglais;My friend;reported;what;;;;;moved my mother to tears yesterday night .
+9;5;anglais;My friend;reported;that;the symphony ;that ;was dedicated to;Mozart;moved my mother to tears yesterday night .
+9;6;anglais;My friend;reported;that;the symphony ;that ;was dedicated to;;moved my mother to tears yesterday night .
+9;7;anglais;My friend;reported;who;the symphony ;that ;was dedicated to;Mozart;moved my mother to tears yesterday night .
+9;8;anglais;My friend;reported;who;the symphony ;that ;was dedicated to;;moved my mother to tears yesterday night .
+10;1;anglais;I;have an idea about;that;the play ;;;;upset me last night .
+10;2;anglais;I;have an idea about;that;;;;;upset me last night .
+10;3;anglais;I;have an idea about;what;the play ;;;;upset me last night .
+10;4;anglais;I;have an idea about;what;;;;;upset me last night .
+10;5;anglais;I;have an idea about;that;the play ;that ;delighted;the amateur comedian;upset me last night .
+10;6;anglais;I;have an idea about;that;the play ;that ;delighted;;upset me last night .
+10;7;anglais;I;have an idea about;who;the play ;that ;delighted;the amateur comedian;upset me last night .
+10;8;anglais;I;have an idea about;who;the play ;that ;delighted;;upset me last night .
+11;1;anglais;She;can guess;that;a forward ;;;;claimed that Elvis is still alive over the weekend .
+11;2;anglais;She;can guess;that;;;;;claimed that Elvis is still alive over the weekend .
+11;3;anglais;She;can guess;what;a forward ;;;;claimed that Elvis is still alive over the weekend .
+11;4;anglais;She;can guess;what;;;;;claimed that Elvis is still alive over the weekend .
+11;5;anglais;She;can guess;that;a forward ;that ;introduced;the new manuscript;claimed that Elvis is still alive over the weekend .
+11;6;anglais;She;can guess;that;a forward ;that ;introduced;;claimed that Elvis is still alive over the weekend .
+11;7;anglais;She;can guess;what;a forward ;that ;introduced;the new manuscript;claimed that Elvis is still alive over the weekend .
+11;8;anglais;She;can guess;what;a forward ;that ;introduced;;claimed that Elvis is still alive over the weekend .
+12;1;anglais;The newspaper;reported;that;a mix ;;;;was used for the salad dressing every time she cooked .
+12;2;anglais;The newspaper;reported;that;;;;;was used for the salad dressing every time she cooked .
+12;3;anglais;The newspaper;reported;what;a mix;;;;was used for the salad dressing every time she cooked .
+12;4;anglais;The newspaper;reported;what;;;;;was used for the salad dressing every time she cooked .
+12;5;anglais;The newspaper;reported;that;a mix;that ;included;oil and vinegar ;was used for the salad dressing every time she cooked .
+12;6;anglais;The newspaper;reported;that;a mix;that ;included;;was used for the salad dressing every time she cooked .
+12;7;anglais;The newspaper;reported;what;a mix;that ;included;oil and vinegar ;was used for the salad dressing every time she cooked .
+12;8;anglais;The newspaper;reported;what;a mix;that ;included;;was used for the salad dressing every time she cooked .
+13;1;anglais;We;recall;that;a critique ;;;;found support online late in the afternoon .
+13;2;anglais;We;recall;that;;;;;found support online late in the afternoon .
+13;3;anglais;We;recall;what;a critique ;;;;found support online late in the afternoon .
+13;4;anglais;We;recall;what;;;;;found support online late in the afternoon .
+13;5;anglais;We;recall;that;a critique ;that ;was aimed at;the fossil fuel industry ;found support online late in the afternoon .
+13;6;anglais;We;recall;that;a critique ;that ;was aimed at;;found support online late in the afternoon .
+13;7;anglais;We;recall;what;a critique ;that ;was aimed at;the fossil fuel industry ;found support online late in the afternoon .
+13;8;anglais;We;recall;what;a critique ;that ;was aimed at;;found support online late in the afternoon .
+14;1;anglais;I;remember;that;a diatribe ;;;;was published in the local newspaper yesterday night .
+14;2;anglais;I;remember;that;;;;;was published in the local newspaper yesterday night .
+14;3;anglais;I;remember;what;a diatribe ;;;;was published in the local newspaper yesterday night .
+14;4;anglais;I;remember;what;;;;;was published in the local newspaper yesterday night .
+14;5;anglais;I;remember;that;a diatribe;that ;criticized;the mayor ;was published in the local newspaper yesterday night .
+14;6;anglais;I;remember;that;a diatribe;that ;criticized;;was published in the local newspaper yesterday night .
+14;7;anglais;I;remember;who;a diatribe;that ;criticized;the mayor ;was published in the local newspaper yesterday night .
+14;8;anglais;I;remember;who;a diatribe;that ;criticized;;was published in the local newspaper yesterday night .
+15;1;anglais;Our friend;guessed;that;a picture ;;;;appeared in the newspaper yesterday afternoon .
+15;2;anglais;Our friend;guessed;that;;;;;appeared in the newspaper yesterday afternoon .
+15;3;anglais;Our friend;guessed;what;a picture ;;;;appeared in the newspaper yesterday afternoon .
+15;4;anglais;Our friend;guessed;what;;;;;appeared in the newspaper yesterday afternoon .
+15;5;anglais;Our friend;guessed;that;a picture;that ;showed  ;the convict;appeared in the newspaper yesterday afternoon .
+15;6;anglais;Our friend;guessed;that;a picture;that ;showed  ;;appeared in the newspaper yesterday afternoon .
+15;7;anglais;Our friend;guessed;who;a picture;that ;showed  ;the convict;appeared in the newspaper yesterday afternoon .
+15;8;anglais;Our friend;guessed;who;a picture;that ;showed  ;;appeared in the newspaper yesterday afternoon .
+16;1;anglais;The mayor;told me;that;a photograph ;;;;was taken by the war correspondent two days after the battle .
+16;2;anglais;The mayor;told me;that;;;;;was taken by the war correspondent two days after the battle .
+16;3;anglais;The mayor;told me;what;a photograph ;;;;was taken by the war correspondent two days after the battle .
+16;4;anglais;The mayor;told me;what;;;;;was taken by the war correspondent two days after the battle .
+16;5;anglais;The mayor;told me;that;a photograph ;that ;shocked ;the public;was taken by the war correspondent two days after the battle .
+16;6;anglais;The mayor;told me;that;a photograph ;that ;shocked ;;was taken by the war correspondent two days after the battle .
+16;7;anglais;The mayor;told me;who;a photograph ;that ;shocked ;the public;was taken by the war correspondent two days after the battle .
+16;8;anglais;The mayor;told me;who;a photograph ;that ;shocked ;;was taken by the war correspondent two days after the battle .
+17;1;anglais;My friend;remembers;that;a description ;;;;was disliked by the bishop over a year ago .
+17;2;anglais;My friend;remembers;that;;;;;was disliked by the bishop over a year ago .
+17;3;anglais;My friend;remembers;what;a description ;;;;was disliked by the bishop over a year ago .
+17;4;anglais;My friend;remembers;what;;;;;was disliked by the bishop over a year ago .
+17;5;anglais;My friend;remembers;that;a description;that ;mocked ;abbey life;was disliked by the bishop over a year ago .
+17;6;anglais;My friend;remembers;that;a description;that ;mocked ;;was disliked by the bishop over a year ago .
+17;7;anglais;My friend;remembers;what;a description;that ;mocked ;abbey life;was disliked by the bishop over a year ago .
+17;8;anglais;My friend;remembers;what;a description;that ;mocked ;;was disliked by the bishop over a year ago .
+18;1;anglais;The newspaper;said;that;the present ;;;;was imported from Italy while I was on vacation .
+18;2;anglais;The newspaper;said;that;;;;;was imported from Italy while I was on vacation .
+18;3;anglais;The newspaper;said;what;the present ;;;;was imported from Italy while I was on vacation .
+18;4;anglais;The newspaper;said;what;;;;;was imported from Italy while I was on vacation .
+18;5;anglais;The newspaper;said;that;the present ;that ;we gave;Simon;was imported from Italy while I was on vacation .
+18;6;anglais;The newspaper;said;that;the present ;that ;we gave;;was imported from Italy while I was on vacation .
+18;7;anglais;The newspaper;said;who;the present ;that ;we gave;Simon;was imported from Italy while I was on vacation .
+18;8;anglais;The newspaper;said;who;the present ;that ;we gave;;was imported from Italy while I was on vacation .
+19;1;anglais;Our neighbor;said;that;the argument ;;;;tore their marriage apart yesterday .
+19;2;anglais;Our neighbor;said;that;;;;;tore their marriage apart yesterday .
+19;3;anglais;Our neighbor;said;what;the argument ;;;;tore their marriage apart yesterday .
+19;4;anglais;Our neighbor;said;what;;;;;tore their marriage apart yesterday .
+19;5;anglais;Our neighbor;said;that;the argument ;that ;concerned;childcare;tore their marriage apart yesterday .
+19;6;anglais;Our neighbor;said;that;the argument ;that ;concerned;;tore their marriage apart yesterday .
+19;7;anglais;Our neighbor;said;what;the argument ;that ;concerned;childcare;tore their marriage apart yesterday .
+19;8;anglais;Our neighbor;said;what;the argument ;that ;concerned;;tore their marriage apart yesterday .
+20;1;anglais;My friend;told me;that;a proposal ;;;;suggested increasing employe benefits last evening .
+20;2;anglais;My friend;told me;that;;;;;suggested increasing employe benefits last evening .
+20;3;anglais;My friend;told me;what;a proposal ;;;;suggested increasing employe benefits last evening .
+20;4;anglais;My friend;told me;what;;;;;suggested increasing employe benefits last evening .
+20;5;anglais;My friend;told me;that;a proposal;that ;he will deliver to ;the board;suggested increasing employe benefits last evening .
+20;6;anglais;My friend;told me;that;a proposal;that ;he will deliver to ;;suggested increasing employe benefits last evening .
+20;7;anglais;My friend;told me;who;a proposal;that ;he will deliver to ;the board;suggested increasing employe benefits last evening .
+20;8;anglais;My friend;told me;who;a proposal;that ;he will deliver to ;;suggested increasing employe benefits last evening .
+21;1;anglais;She;can not believe;that;a conference;;;;took place downtown last spring .
+21;2;anglais;She;can not believe;that;;;;;took place downtown last spring .
+21;3;anglais;She;can not believe;what;a conference ;;;;took place downtown last spring .
+21;4;anglais;She;can not believe;what;;;;;took place downtown last spring .
+21;5;anglais;She;can not believe;that;a conference ;that ;popularized;cell evolution ;took place downtown last spring .
+21;6;anglais;She;can not believe;that;a conference ;that ;popularized;;took place downtown last spring .
+21;7;anglais;She;can not believe;what;a conference ;that ;popularized;cell evolution ;took place downtown last spring .
+21;8;anglais;She;can not believe;what;a conference ;that ;popularized;;took place downtown last spring .

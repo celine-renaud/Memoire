@@ -1,0 +1,337 @@
+numero,variable,langue,phrase
+1,1,français,I know that an indication caused us to recommend therapy last night .
+2,1,français,I remember that the gift cost a lot of money at the last minute . 
+3,1,français,The newspaper reported that the novel received favorable reviews in the press . 
+4,1,français,I know that the painting fetched a high price at auction sometime last year . 
+5,1,français,You remember that the instructions fell into the furnace much to our regret . 
+6,1,français,She told me that an allergy causes him to avoid dining out ever since he was young .
+7,1,français,She knows that the delivery arrived around noon last Tuesday . 
+8,1,français,We all remember that the package got lost in the mail in the holiday rush . 
+9,1,français,My friend reported that the symphony moved my mother to tears yesterday night . 
+10,1,français,I have an idea about that the play upset me last night . 
+11,1,français,She can guess that a forward claimed that Elvis is still alive over the weekend . 
+12,1,français,The newspaper reported that a mix was used for the salad dressing every time she cooked .
+13,1,français,We recall that a critique found support online late in the afternoon . 
+14,1,français,I remember that a diatribe was published in the local newspaper yesterday night . 
+15,1,français,Our friend guessed that a picture appeared in the newspaper yesterday afternoon .
+16,1,français,The mayor told me that a photograph was taken by the war correspondent two days after the battle . 
+17,1,français,My friend remembers that a description was disliked by the bishop over a year ago .
+18,1,français,The newspaper said that the present was imported from Italy while I was on vacation .
+19,1,français,Our neighbor said that the argument tore their marriage apart yesterday . 
+20,1,français,My friend told me that a proposal suggested increasing employe benefits last evening . 
+21,1,français,She can not believe that a conference took place downtown last spring .
+1,2,français,I know that caused us to recommend therapy last night . 
+2,2,français,I remember that cost a lot of money at the last minute . 
+3,2,français,The newspaper reported that received favorable reviews in the press .
+4,2,français,I know that fetched a high price at auction sometime last year . 
+5,2,français,You remember that fell into the furnace much to our regret . 
+6,2,français,She told me that causes him to avoid dining out ever since he was young . 
+7,2,français,She knows that arrived around noon last Tuesday . 
+8,2,français,We all remember that got lost in the mail in the holiday rush . 
+9,2,français,My friend reported that moved my mother to tears yesterday night . 
+10,2,français,I have an idea about that upset me last night . 
+11,2,français,She can guess that claimed that Elvis is still alive over the weekend . 
+12,2,français,The newspaper reported that was used for the salad dressing every time she cooked . 
+13,2,français,We recall that found support online late in the afternoon . 
+14,2,français,I remember that was published in the local newspaper yesterday night .
+15,2,français,Our friend guessed that appeared in the newspaper yesterday afternoon . 
+16,2,français,The mayor told me that was taken by the war correspondent two days after the battle . 
+17,2,français,My friend remembers that was disliked by the bishop over a year ago . 
+18,2,français,The newspaper said that was imported from Italy while I was on vacation . 
+19,2,français,Our neighbor said that tore their marriage apart yesterday . 
+20,2,français,My friend told me that suggested increasing employe benefits last evening . 
+21,2,français,She can not believe that took place downtown last spring . 
+1,3,français,I know what an indication caused us to recommend therapy last night . 
+2,3,français,I remember what the gift cost a lot of money at the last minute . 
+3,3,français,The newspaper reported what the novel received favorable reviews in the press . 
+4,3,français,I know what the painting fetched a high price at auction sometime last year . 
+5,3,français,You remember what the instructions fell into the furnace much to our regret . 
+6,3,français,She told me what an allergy causes him to avoid dining out ever since he was young . 
+7,3,français,She knows what the delivery arrived around noon last Tuesday . 
+8,3,français,We all remember what the package got lost in the mail in the holiday rush . 
+9,3,français,My friend reported what the symphony moved my mother to tears yesterday night . 
+10,3,français,I have an idea about what the play upset me last night . 
+11,3,français,She can guess what a forward claimed that Elvis is still alive over the weekend . 
+12,3,français,The newspaper reported what a mix was used for the salad dressing every time she cooked . 
+13,3,français,We recall what a critique found support online late in the afternoon . 
+14,3,français,I remember what a diatribe was published in the local newspaper yesterday night . 
+15,3,français,Our friend guessed what a picture appeared in the newspaper yesterday afternoon . 
+16,3,français,The mayor told me what a photograph was taken by the war correspondent two days after the battle . 
+17,3,français,My friend remembers what a description was disliked by the bishop over a year ago . 
+18,3,français,The newspaper said what the present was imported from Italy while I was on vacation . 
+19,3,français,Our neighbor said what the argument tore their marriage apart yesterday . 
+20,3,français,My friend told me what a proposal suggested increasing employe benefits last evening . 
+21,3,français,She can not believe what a conference took place downtown last spring . 
+1,4,français,I know what caused us to recommend therapy last night . 
+2,4,français,I remember what cost a lot of money at the last minute . 
+3,4,français,The newspaper reported what received favorable reviews in the press . 
+4,4,français,I know what fetched a high price at auction sometime last year . 
+5,4,français,You remember what fell into the furnace much to our regret . 
+6,4,français,She told me what causes him to avoid dining out ever since he was young . 
+7,4,français,She knows what arrived around noon last Tuesday . 
+8,4,français,We all remember what got lost in the mail in the holiday rush . 
+9,4,français,My friend reported what moved my mother to tears yesterday night . 
+10,4,français,I have an idea about what upset me last night . 
+11,4,français,She can guess what claimed that Elvis is still alive over the weekend . 
+12,4,français,The newspaper reported what was used for the salad dressing every time she cooked . 
+13,4,français,We recall what found support online late in the afternoon . 
+14,4,français,I remember what was published in the local newspaper yesterday night . 
+15,4,français,Our friend guessed what appeared in the newspaper yesterday afternoon . 
+16,4,français,The mayor told me what was taken by the war correspondent two days after the battle . 
+17,4,français,My friend remembers what was disliked by the bishop over a year ago . 
+18,4,français,The newspaper said what was imported from Italy while I was on vacation . 
+19,4,français,Our neighbor said what tore their marriage apart yesterday . 
+20,4,français,My friend told me what suggested increasing employe benefits last evening . 
+21,4,français,She can not believe what took place downtown last spring . 
+1,5,français,I know that an indication that signaled depression caused us to recommend therapy last night . 
+2,5,français,I remember that the gift that we bought Mary cost a lot of money at the last minute . 
+3,5,français,The newspaper reported that the novel that provoked the famous author received favorable reviews in the press . 
+4,5,français,I know that the painting that depicted Monet fetched a high price at auction sometime last year . 
+5,5,français,You remember that the instructions that showed how to operate the submarine fell into the furnace much to our regret . 
+6,5,français,She told me that an allergy that is caused by peanuts causes him to avoid dining out ever since he was young . 
+7,5,français,She knows that the delivery that shocked Sarah arrived around noon last Tuesday . 
+8,5,français,We all remember that the package that Sarah described to Robert got lost in the mail in the holiday rush . 
+9,5,français,My friend reported that the symphony that was dedicated to Mozart moved my mother to tears yesterday night . 
+10,5,français,I have an idea about that the play that delighted the amateur comedian upset me last night . 
+11,5,français,She can guess that a forward that introduced the new manuscript claimed that Elvis is still alive over the weekend . 
+12,5,français,The newspaper reported that a mix that included oil and vinegar was used for the salad dressing every time she cooked . 
+13,5,français,We recall that a critique that was aimed at the fossil fuel industry found support online late in the afternoon . 
+14,5,français,I remember that a diatribe that criticized the mayor was published in the local newspaper yesterday night . 
+15,5,français,Our friend guessed that a picture that showed the convict appeared in the newspaper yesterday afternoon . 
+16,5,français,The mayor told me that a photograph that shocked the public was taken by the war correspondent two days after the battle . 
+17,5,français,My friend remembers that a description that mocked abbey life was disliked by the bishop over a year ago . 
+18,5,français,The newspaper said that the present that we gave Simon was imported from Italy while I was on vacation . 
+19,5,français,Our neighbor said that the argument that concerned childcare tore their marriage apart yesterday . 
+20,5,français,My friend told me that a proposal that he will deliver to the board suggested increasing employe benefits last evening . 
+21,5,français,She can not believe that a conference that popularized cell evolution took place downtown last spring . 
+1,6,français,I know that an indication that signaled caused us to recommend therapy last night . 
+2,6,français,I remember that the gift that we bought cost a lot of money at the last minute . 
+3,6,français,The newspaper reported that the novel that provoked received favorable reviews in the press . 
+4,6,français,I know that the painting that depicted fetched a high price at auction sometime last year . 
+5,6,français,You remember that the instructions that showed how to operate fell into the furnace much to our regret . 
+6,6,français,She told me that an allergy that is caused by causes him to avoid dining out ever since he was young . 
+7,6,français,She knows that the delivery that shocked arrived around noon last Tuesday . 
+8,6,français,We all remember that the package that Sarah described to got lost in the mail in the holiday rush . 
+9,6,français,My friend reported that the symphony that was dedicated to moved my mother to tears yesterday night . 
+10,6,français,I have an idea about that the play that delighted upset me last night . 
+11,6,français,She can guess that a forward that introduced claimed that Elvis is still alive over the weekend . 
+12,6,français,The newspaper reported that a mix that included was used for the salad dressing every time she cooked . 
+13,6,français,We recall that a critique that was aimed at found support online late in the afternoon . 
+14,6,français,I remember that a diatribe that criticized was published in the local newspaper yesterday night . 
+15,6,français,Our friend guessed that a picture that showed appeared in the newspaper yesterday afternoon . 
+16,6,français,The mayor told me that a photograph that shocked was taken by the war correspondent two days after the battle . 
+17,6,français,My friend remembers that a description that mocked was disliked by the bishop over a year ago . 
+18,6,français,The newspaper said that the present that we gave was imported from Italy while I was on vacation . 
+19,6,français,Our neighbor said that the argument that concerned tore their marriage apart yesterday . 
+20,6,français,My friend told me that a proposal that he will deliver to suggested increasing employe benefits last evening . 
+21,6,français,She can not believe that a conference that popularized took place downtown last spring . 
+1,7,français,I know what an indication that signaled depression caused us to recommend therapy last night . 
+2,7,français,I remember who the gift that we bought Mary cost a lot of money at the last minute . 
+3,7,français,The newspaper reported who the novel that provoked the famous author received favorable reviews in the press . 
+4,7,français,I know who the painting that depicted Monet fetched a high price at auction sometime last year . 
+5,7,français,You remember what the instructions that showed how to operate the submarine fell into the furnace much to our regret . 
+6,7,français,She told me what an allergy that is caused by peanuts causes him to avoid dining out ever since he was young . 
+7,7,français,She knows who the delivery that shocked Sarah arrived around noon last Tuesday . 
+8,7,français,We all remember who the package that Sarah described to Robert got lost in the mail in the holiday rush . 
+9,7,français,My friend reported who the symphony that was dedicated to Mozart moved my mother to tears yesterday night . 
+10,7,français,I have an idea about who the play that delighted the amateur comedian upset me last night . 
+11,7,français,She can guess what a forward that introduced the new manuscript claimed that Elvis is still alive over the weekend . 
+12,7,français,The newspaper reported what a mix that included oil and vinegar was used for the salad dressing every time she cooked . 
+13,7,français,We recall what a critique that was aimed at the fossil fuel industry found support online late in the afternoon . 
+14,7,français,I remember who a diatribe that criticized the mayor was published in the local newspaper yesterday night . 
+15,7,français,Our friend guessed who a picture that showed the convict appeared in the newspaper yesterday afternoon . 
+16,7,français,The mayor told me who a photograph that shocked the public was taken by the war correspondent two days after the battle . 
+17,7,français,My friend remembers what a description that mocked abbey life was disliked by the bishop over a year ago . 
+18,7,français,The newspaper said who the present that we gave Simon was imported from Italy while I was on vacation . 
+19,7,français,Our neighbor said what the argument that concerned childcare tore their marriage apart yesterday . 
+20,7,français,My friend told me who a proposal that he will deliver to the board suggested increasing employe benefits last evening . 
+21,7,français,She can not believe what a conference that popularized cell evolution took place downtown last spring . 
+1,8,français,I know what an indication that signaled caused us to recommend therapy last night . 
+2,8,français,I remember who the gift that we bought cost a lot of money at the last minute . 
+3,8,français,The newspaper reported who the novel that provoked received favorable reviews in the press . 
+4,8,français,I know who the painting that depicted fetched a high price at auction sometime last year . 
+5,8,français,You remember what the instructions that showed how to operate fell into the furnace much to our regret . 
+6,8,français,She told me what an allergy that is caused by peanuts causes him to avoid dining out ever since he was young . 
+7,8,français,She knows who the delivery that shocked arrived around noon last Tuesday . 
+8,8,français,We all remember who the package that Sarah described to got lost in the mail in the holiday rush . 
+9,8,français,My friend reported who the symphony that was dedicated to moved my mother to tears yesterday night . 
+10,8,français,I have an idea about who the play that delighted upset me last night . 
+11,8,français,She can guess what a forward that introduced claimed that Elvis is still alive over the weekend . 
+12,8,français,The newspaper reported what a mix that included was used for the salad dressing every time she cooked . 
+13,8,français,We recall what a critique that was aimed at found support online late in the afternoon . 
+14,8,français,I remember who a diatribe that criticized was published in the local newspaper yesterday night . 
+15,8,français,Our friend guessed who a picture that showed appeared in the newspaper yesterday afternoon . 
+16,8,français,The mayor told me who a photograph that shocked was taken by the war correspondent two days after the battle . 
+17,8,français,My friend remembers what a description that mocked was disliked by the bishop over a year ago . 
+18,8,français,The newspaper said who the present that we gave was imported from Italy while I was on vacation . 
+19,8,français,Our neighbor said what the argument that concerned tore their marriage apart yesterday . 
+20,8,français,My friend told me who a proposal that he will deliver to suggested increasing employe benefits last evening . 
+21,8,français,She can not believe what a conference that popularized took place downtown last spring . 
+1,9,français,I know that an indication what depression caused us to recommend therapy last night . 
+2,9,français,I remember that the gift who Mary cost a lot of money at the last minute . 
+3,9,français,The newspaper reported that the novel who the famous author received favorable reviews in the press . 
+4,9,français,I know that the painting who Monet fetched a high price at auction sometime last year . 
+5,9,français,You remember that the instructions what the submarine fell into the furnace much to our regret . 
+6,9,français,She told me what an allergy that is caused by causes him to avoid dining out ever since he was young . 
+7,9,français,She knows that the delivery who Sarah arrived around noon last Tuesday . 
+8,9,français,We all remember that the package who Robert got lost in the mail in the holiday rush . 
+9,9,français,My friend reported that the symphony who Mozart moved my mother to tears yesterday night . 
+10,9,français,I have an idea about that the play who the amateur comedian upset me last night . 
+11,9,français,She can guess that a forward what the new manuscript claimed that Elvis is still alive over the weekend . 
+12,9,français,The newspaper reported that a mix what oil and vinegar was used for the salad dressing every time she cooked . 
+13,9,français,We recall that a critique what the fossil fuel industry found support online late in the afternoon . 
+14,9,français,I remember that a diatribe who the mayor was published in the local newspaper yesterday night . 
+15,9,français,Our friend guessed that a picture who the convict appeared in the newspaper yesterday afternoon . 
+16,9,français,The mayor told me that a photograph who the public was taken by the war correspondent two days after the battle . 
+17,9,français,My friend remembers that a description what abbey life was disliked by the bishop over a year ago . 
+18,9,français,The newspaper said that the present who Simon was imported from Italy while I was on vacation . 
+19,9,français,Our neighbor said that the argument what childcare tore their marriage apart yesterday . 
+20,9,français,My friend told me that a proposal who the board suggested increasing employe benefits last evening . 
+21,9,français,She can not believe that a conference what cell evolution took place downtown last spring . 
+1,10,français,I know that an indication what caused us to recommend therapy last night . 
+2,10,français,I remember that the gift who cost a lot of money at the last minute . 
+3,10,français,The newspaper reported that the novel who received favorable reviews in the press . 
+4,10,français,I know that the painting who fetched a high price at auction sometime last year . 
+5,10,français,You remember that the instructions what fell into the furnace much to our regret . 
+6,10,français,She told me that an allergy what peanuts causes him to avoid dining out ever since he was young . 
+7,10,français,She knows that the delivery who arrived around noon last Tuesday . 
+8,10,français,We all remember that the package who got lost in the mail in the holiday rush . 
+9,10,français,My friend reported that the symphony who moved my mother to tears yesterday night . 
+10,10,français,I have an idea about that the play who upset me last night . 
+11,10,français,She can guess that a forward what claimed that Elvis is still alive over the weekend . 
+12,10,français,The newspaper reported that a mix what was used for the salad dressing every time she cooked . 
+13,10,français,We recall that a critique what found support online late in the afternoon . 
+14,10,français,I remember that a diatribe who was published in the local newspaper yesterday night . 
+15,10,français,Our friend guessed that a picture who appeared in the newspaper yesterday afternoon . 
+16,10,français,The mayor told me that a photograph who was taken by the war correspondent two days after the battle . 
+17,10,français,My friend remembers that a description what was disliked by the bishop over a year ago . 
+18,10,français,The newspaper said that the present who was imported from Italy while I was on vacation . 
+19,10,français,Our neighbor said that the argument what tore their marriage apart yesterday . 
+20,10,français,My friend told me that a proposal who suggested increasing employe benefits last evening . 
+21,10,français,She can not believe that a conference what took place downtown last spring . 
+1,11,français,I know what an indication what depression caused us to recommend therapy last night . 
+2,11,français,I remember who the gift who Mary cost a lot of money at the last minute . 
+3,11,français,The newspaper reported who the novel who the famous author received favorable reviews in the press . 
+4,11,français,I know who the painting who Monet fetched a high price at auction sometime last year . 
+5,11,français,You remember what the instructions what the submarine fell into the furnace much to our regret . 
+6,11,français,She told me that an allergy what causes him to avoid dining out ever since he was young . 
+7,11,français,She knows who the delivery who Sarah arrived around noon last Tuesday . 
+8,11,français,We all remember who the package who Robert got lost in the mail in the holiday rush . 
+9,11,français,My friend reported who the symphony who Mozart moved my mother to tears yesterday night . 
+10,11,français,I have an idea about who the play who the amateur comedian upset me last night . 
+11,11,français,She can guess what a forward what the new manuscript claimed that Elvis is still alive over the weekend . 
+12,11,français,The newspaper reported what a mix what oil and vinegar was used for the salad dressing every time she cooked . 
+13,11,français,We recall what a critique what the fossil fuel industry found support online late in the afternoon . 
+14,11,français,I remember who a diatribe who the mayor was published in the local newspaper yesterday night . 
+15,11,français,Our friend guessed who a picture who the convict appeared in the newspaper yesterday afternoon . 
+16,11,français,The mayor told me who a photograph who the public was taken by the war correspondent two days after the battle . 
+17,11,français,My friend remembers what a description what abbey life was disliked by the bishop over a year ago . 
+18,11,français,The newspaper said who the present who Simon was imported from Italy while I was on vacation . 
+19,11,français,Our neighbor said what the argument what childcare tore their marriage apart yesterday . 
+20,11,français,My friend told me who a proposal who the board suggested increasing employe benefits last evening . 
+21,11,français,She can not believe what a conference what cell evolution took place downtown last spring . 
+1,12,français,I know what an indication what caused us to recommend therapy last night . 
+2,12,français,I remember who the gift who cost a lot of money at the last minute . 
+3,12,français,The newspaper reported who the novel who received favorable reviews in the press . 
+4,12,français,I know who the painting who fetched a high price at auction sometime last year . 
+5,12,français,You remember what the instructions what fell into the furnace much to our regret . 
+6,12,français,She told me what an allergy what peanuts causes him to avoid dining out ever since he was young . 
+7,12,français,She knows who the delivery who arrived around noon last Tuesday . 
+8,12,français,We all remember who the package who got lost in the mail in the holiday rush . 
+9,12,français,My friend reported who the symphony who moved my mother to tears yesterday night . 
+10,12,français,I have an idea about who the play who upset me last night . 
+11,12,français,She can guess what a forward what claimed that Elvis is still alive over the weekend . 
+12,12,français,The newspaper reported what a mix what was used for the salad dressing every time she cooked . 
+13,12,français,We recall what a critique what found support online late in the afternoon . 
+14,12,français,I remember who a diatribe who was published in the local newspaper yesterday night . 
+15,12,français,Our friend guessed who a picture who appeared in the newspaper yesterday afternoon . 
+16,12,français,The mayor told me who a photograph who was taken by the war correspondent two days after the battle . 
+17,12,français,My friend remembers what a description what was disliked by the bishop over a year ago . 
+18,12,français,The newspaper said who the present who was imported from Italy while I was on vacation . 
+19,12,français,Our neighbor said what the argument what tore their marriage apart yesterday . 
+20,12,français,My friend told me who a proposal who suggested increasing employe benefits last evening . 
+21,12,français,She can not believe what a conference what took place downtown last spring . 
+1,13,français,I know that an indication of depression caused us to recommend therapy last night . 
+2,13,français,I remember that the gift for Mary cost a lot of money at the last minute . 
+3,13,français,The newspaper reported that the novel by the famous author received favorable reviews in the press . 
+4,13,français,I know that the painting by Monet fetched a high price at auction sometime last year . 
+5,13,français,You remember that the instructions for the submarine fell into the furnace much to our regret . 
+6,13,français,She told me what an allergy what causes him to avoid dining out ever since he was young . 
+7,13,français,She knows that the delivery for Sarah arrived around noon last Tuesday . 
+8,13,français,We all remember that the package for Robert got lost in the mail in the holiday rush . 
+9,13,français,My friend reported that the symphony by Mozart moved my mother to tears yesterday night . 
+10,13,français,I have an idea about that the play by the amateur comedian upset me last night . 
+11,13,français,She can guess that a forward for the new manuscript claimed that Elvis is still alive over the weekend . 
+12,13,français,The newspaper reported that a mix of oil and vinegar was used for the salad dressing every time she cooked . 
+13,13,français,We recall that a critique of the fossil fuel industry found support online late in the afternoon . 
+14,13,français,I remember that a diatribe against the mayor was published in the local newspaper yesterday night . 
+15,13,français,Our friend guessed that a picture of the convict appeared in the newspaper yesterday afternoon . 
+16,13,français,The mayor told me that a photograph of the general was taken by the war correspondent two days after the battle . 
+17,13,français,My friend remembers that a description of abbey life was disliked by the bishop over a year ago . 
+18,13,français,The newspaper said that the present for Simon was imported from Italy while I was on vacation . 
+19,13,français,Our neighbor said that the argument about childcare tore their marriage apart yesterday . 
+20,13,français,My friend told me that a proposal for the board suggested increasing employe benefits last evening . 
+21,13,français,She can not believe that a conference on cell evolution took place downtown last spring . 
+1,14,français,I know that an indication of caused us to recommend therapy last night . 
+2,14,français,I remember that the gift for cost a lot of money at the last minute . 
+3,14,français,The newspaper reported that the novel by received favorable reviews in the press . 
+4,14,français,I know that the painting by fetched a high price at auction sometime last year . 
+5,14,français,You remember that the instructions for fell into the furnace much to our regret . 
+6,14,français,She told me that an allergy to causes him to avoid dining out ever since he was young . 
+7,14,français,She knows that the delivery for arrived around noon last Tuesday . 
+8,14,français,We all remember that the package for got lost in the mail in the holiday rush . 
+9,14,français,My friend reported that the symphony by moved my mother to tears yesterday night . 
+10,14,français,I have an idea about that the play by upset me last night . 
+11,14,français,She can guess that a forward for claimed that Elvis is still alive over the weekend . 
+12,14,français,The newspaper reported that a mix of was used for the salad dressing every time she cooked . 
+13,14,français,We recall that a critique of found support online late in the afternoon . 
+14,14,français,I remember that a diatribe against was published in the local newspaper yesterday night . 
+15,14,français,Our friend guessed that a picture of appeared in the newspaper yesterday afternoon . 
+16,14,français,The mayor told me that a photograph of was taken by the war correspondent two days after the battle . 
+17,14,français,My friend remembers that a description of was disliked by the bishop over a year ago . 
+18,14,français,The newspaper said that the present for was imported from Italy while I was on vacation . 
+19,14,français,Our neighbor said that the argument about tore their marriage apart yesterday . 
+20,14,français,My friend told me that a proposal for suggested increasing employe benefits last evening . 
+21,14,français,She can not believe that a conference on took place downtown last spring . 
+1,15,français,I know what an indication of depression caused us to recommend therapy last night . 
+2,15,français,I remember who the gift for Mary cost a lot of money at the last minute . 
+3,15,français,The newspaper reported who the novel by the famous author received favorable reviews in the press . 
+4,15,français,I know who the painting by Monet fetched a high price at auction sometime last year . 
+5,15,français,You remember what the instructions for the submarine fell into the furnace much to our regret . 
+6,15,français,She told me what an allergy to peanuts causes him to avoid dining out ever since he was young . 
+7,15,français,She knows who the delivery for Sarah arrived around noon last Tuesday . 
+8,15,français,We all remember who the package for Robert got lost in the mail in the holiday rush . 
+9,15,français,My friend reported who the symphony by Mozart moved my mother to tears yesterday night . 
+10,15,français,I have an idea about who the play by the amateur comedian upset me last night . 
+11,15,français,She can guess what a forward for the new manuscript claimed that Elvis is still alive over the weekend . 
+12,15,français,The newspaper reported what a mix of oil and vinegar was used for the salad dressing every time she cooked . 
+13,15,français,We recall what a critique of the fossil fuel industry found support online late in the afternoon . 
+14,15,français,I remember who a diatribe against the mayor was published in the local newspaper yesterday night . 
+15,15,français,Our friend guessed who a picture of the convict appeared in the newspaper yesterday afternoon . 
+16,15,français,The mayor told me who a photograph of the general was taken by the war correspondent two days after the battle . 
+17,15,français,My friend remembers what a description of abbey life was disliked by the bishop over a year ago . 
+18,15,français,The newspaper said who the present for Simon was imported from Italy while I was on vacation . 
+19,15,français,Our neighbor said what the argument about childcare tore their marriage apart yesterday . 
+20,15,français,My friend told me who a proposal for the board suggested increasing employe benefits last evening . 
+21,15,français,She can not believe what a conference on cell evolution took place downtown last spring . 
+1,16,français,I know what an indication of caused us to recommend therapy last night . 
+2,16,français,I remember who the gift for cost a lot of money at the last minute . 
+3,16,français,The newspaper reported who the novel by received favorable reviews in the press . 
+4,16,français,I know who the painting by fetched a high price at auction sometime last year . 
+5,16,français,You remember what the instructions for fell into the furnace much to our regret . 
+6,16,français,She told me what an allergy to causes him to avoid dining out ever since he was young . 
+7,16,français,She knows who the delivery for arrived around noon last Tuesday . 
+8,16,français,We all remember who the package for got lost in the mail in the holiday rush . 
+9,16,français,My friend reported who the symphony by moved my mother to tears yesterday night . 
+10,16,français,I have an idea about who the play by upset me last night . 
+11,16,français,She can guess what a forward for claimed that Elvis is still alive over the weekend . 
+12,16,français,The newspaper reported what a mix of was used for the salad dressing every time she cooked . 
+13,16,français,We recall what a critique of found support online late in the afternoon . 
+14,16,français,I remember who a diatribe against was published in the local newspaper yesterday night . 
+15,16,français,Our friend guessed who a picture of appeared in the newspaper yesterday afternoon . 
+16,16,français,The mayor told me who a photograph of was taken by the war correspondent two days after the battle . 
+17,16,français,My friend remembers what a description of was disliked by the bishop over a year ago . 
+18,16,français,The newspaper said who the present for was imported from Italy while I was on vacation . 
+19,16,français,Our neighbor said what the argument about tore their marriage apart yesterday . 
+20,16,français,My friend told me who a proposal for suggested increasing employe benefits last evening . 
+21,16,français,She can not believe what a conference on took place downtown last spring . 

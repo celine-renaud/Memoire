@@ -1,0 +1,169 @@
+﻿numero;variable;langue;phrase;;;;;;;
+1;1;français;Je;sais;qu';une indication ;;;;nous a amenés à recommander un traitement hier soir.
+1;2;français;Je;sais;que;;;;;nous a amenés à recommander un traitement hier soir.
+1;3;français;Je;sais;ce que;une indication ;;;;nous a amenés à recommander un traitement hier soir.
+1;4;français;Je;sais;ce que;;;;;nous a amenés à recommander un traitement hier soir.
+1;5;français;Je;sais;qu';une indication ;qui;signalait;la dépression;nous a amenés à recommander un traitement hier soir.
+1;6;français;Je;sais;qu';une indication ;qui;signalait;;nous a amenés à recommander un traitement hier soir.
+1;7;français;Je;sais;ce qu';une indication ;qui;signalait;la dépression;nous a amenés à recommander un traitement hier soir.
+1;8;français;Je;sais;ce qu';une indication ;qui;signalait;;nous a amenés à recommander un traitement hier soir.
+2;1;français;Je;me souviens;que;le cadeau ;;;;a coûté beaucoup d'argent à la dernière minute .
+2;2;français;Je;me souviens;qu';;;;;a coûté beaucoup d'argent à la dernière minute .
+2;3;français;Je;me souviens;ce que;le cadeau ;;;;a coûté beaucoup d'argent à la dernière minute .
+2;4;français;Je;me souviens;ce qu';;;;;a coûté beaucoup d'argent à la dernière minute .
+2;5;français;Je;me souviens;que;le cadeau ;que;nous avons acheté;à Mary;a coûté beaucoup d'argent à la dernière minute .
+2;6;français;Je;me souviens;que;le cadeau ;que;nous avons acheté;;a coûté beaucoup d'argent à la dernière minute .
+2;7;français;Je;me souviens;à qui;le cadeau ;que;nous avons acheté;à Mary;a coûté beaucoup d'argent à la dernière minute .
+2;8;français;Je;me souviens;à qui;le cadeau ;que;nous avons acheté;;a coûté beaucoup d'argent à la dernière minute .
+3;1;français;Le journal;a rapporté;que ;le roman;;;;a reçu des critiques favorables dans la presse .
+3;2;français;Le journal;a rapporté;qu';;;;;a reçu des critiques favorables dans la presse .
+3;3;français;Le journal;a rapporté;ce que;le roman;;;;a reçu des critiques favorables dans la presse .
+3;4;français;Le journal;a rapporté;ce qu';;;;;a reçu des critiques favorables dans la presse .
+3;5;français;Le journal;a rapporté;que;le roman;qui;a provoqué ;le célèbre auteur;a reçu des critiques favorables dans la presse .
+3;6;français;Le journal;a rapporté;que;le roman;qui;a provoqué ;;a reçu des critiques favorables dans la presse .
+3;7;français;Le journal;a rapporté;celui que;le roman;qui;a provoqué ;le célèbre auteur;a reçu des critiques favorables dans la presse .
+3;8;français;Le journal;a rapporté;celui que;le roman;qui;a provoqué ;;a reçu des critiques favorables dans la presse .
+4;1;français;Je;sais;que;le tableau;;;;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;2;français;Je;sais;qu';;;;;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;3;français;Je;sais;ce que;le tableau;;;;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;4;français;Je;sais;ce qu';;;;;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;5;français;Je;sais;que;le tableau;qui;représente;Monet;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;6;français;Je;sais;que;le tableau;qui;représente;;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;7;français;Je;sais;celui que;le tableau;qui;représente;Monet;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+4;8;français;Je;sais;celui que;le tableau;qui;représente;;a atteint un prix élevé lors d'une vente aux enchères l'année dernière .
+5;1;français;Vous;vous souvenez;que;les instructions;;;;sont tombées dans le four à notre grand regret .
+5;2;français;Vous;vous souvenez;que;;;;;sont tombées dans le four à notre grand regret .
+5;3;français;Vous;vous souvenez;celles que;les instructions;;;;sont tombées dans le four à notre grand regret .
+5;4;français;Vous;vous souvenez;celles que;;;;;sont tombées dans le four à notre grand regret .
+5;5;français;Vous;vous souvenez;que;les instructions;qui;ont montré comment faire fonctionner;le sous-marin ;sont tombées dans le four à notre grand regret .
+5;6;français;Vous;vous souvenez;que;les instructions;qui;ont montré comment faire fonctionner;;sont tombées dans le four à notre grand regret .
+5;7;français;Vous;vous souvenez;ce que;les instructions;qui;ont montré comment faire fonctionner;le sous-marin ;sont tombées dans le four à notre grand regret .
+5;8;français;Vous;vous souvenez;ce que;les instructions;qui;ont montré comment faire fonctionner;;sont tombées dans le four à notre grand regret .
+6;1;français;Elle;m'a dit;qu';une allergie;;;;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;2;français;Elle;m'a dit;que;;;;;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;3;français;Elle;m'a dit;ce que;une allergie;;;;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;4;français;Elle;m'a dit;ce que;;;;;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;5;français;Elle;m'a dit;qu';une allergie;qui;est causée par ;les arachides;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;6;français;Elle;m'a dit;qu';une allergie;qui;est causée par ;;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;7;français;Elle;m'a dit;celles qu';une allergie;qui;est causée par ;les arachides;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+6;8;français;Elle;m'a dit;celles qu';une allergie;qui;est causée par ;;l'amène à éviter de sortir au restaurant depuis qu'il était jeune .
+7;1;français;Elle;sait;que;la livraison;;;;est arrivée vers midi mardi dernier .
+7;2;français;Elle;sait;que;;;;;est arrivée vers midi mardi dernier .
+7;3;français;Elle;sait;ce que;la livraison;;;;est arrivée vers midi mardi dernier .
+7;4;français;Elle;sait;ce que;;;;;est arrivée vers midi mardi dernier .
+7;5;français;Elle;sait;que;la livraison;qui;a choqué;Sarah;est arrivée vers midi mardi dernier .
+7;6;français;Elle;sait;que;la livraison;qui;a choqué;;est arrivée vers midi mardi dernier .
+7;7;français;Elle;sait;celle que;la livraison;qui;a choqué;Sarah;est arrivée vers midi mardi dernier .
+7;8;français;Elle;sait;celle que;la livraison;qui;a choqué;;est arrivée vers midi mardi dernier .
+8;1;français;Nous;nous souvenons tous;que;le colis ;;;;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;2;français;Nous;nous souvenons tous;que;;;;;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;3;français;Nous;nous souvenons tous;ce que;le colis ;;;;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;4;français;Nous;nous souvenons tous;ce que;;;;;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;5;français;Nous;nous souvenons tous;que;le colis ;que;Sarah a décrit à ;Robert;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;6;français;Nous;nous souvenons tous;que;le colis ;que;Sarah a décrit à ;;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;7;français;Nous;nous souvenons tous;celui que;le colis ;que;Sarah a décrit à ;Robert;s'est perdu dans le courrier pendant la ruée vers les vacances .
+8;8;français;Nous;nous souvenons tous;celui que;le colis ;que;Sarah a décrit à ;;s'est perdu dans le courrier pendant la ruée vers les vacances .
+9;1;français;Mon ami;m'a rapporté;que;la symphonie ;;;;a ému ma mère aux larmes hier soir .
+9;2;français;Mon ami;m'a rapporté;qu';;;;;a ému ma mère aux larmes hier soir .
+9;3;français;Mon ami;m'a rapporté;ce que;la symphonie ;;;;a ému ma mère aux larmes hier soir .
+9;4;français;Mon ami;m'a rapporté;ce qu';;;;;a ému ma mère aux larmes hier soir .
+9;5;français;Mon ami;m'a rapporté;que;la symphonie ;qui;était dédiée ;à Mozart;a ému ma mère aux larmes hier soir .
+9;6;français;Mon ami;m'a rapporté;que;la symphonie ;qui;était dédiée ;;a ému ma mère aux larmes hier soir .
+9;7;français;Mon ami;m'a rapporté;à celui que;la symphonie ;qui;était dédiée ;à Mozart;a ému ma mère aux larmes hier soir .
+9;8;français;Mon ami;m'a rapporté;à celui que;la symphonie ;qui;était dédiée ;;a ému ma mère aux larmes hier soir .
+10;1;français;J';ai une idée;que;la pièce ;;;;m'a bouleversé hier soir.
+10;2;français;J';ai une idée;que;;;;;m'a bouleversé hier soir.
+10;3;français;J';ai une idée;ce que;la pièce ;;;;m'a bouleversé hier soir.
+10;4;français;J';ai une idée;ce que;;;;;m'a bouleversé hier soir.
+10;5;français;J';ai une idée;que;la pièce ;qui;a ravi;le comédien amateur;m'a bouleversé hier soir.
+10;6;français;J';ai une idée;que;la pièce ;qui;a ravi;;m'a bouleversé hier soir.
+10;7;français;J';ai une idée;celui que;la pièce ;qui;a ravi;le comédien amateur;m'a bouleversé hier soir.
+10;8;français;J';ai une idée;celui que;la pièce ;qui;a ravi;;m'a bouleversé hier soir.
+11;1;français;Elle;peut deviner;qu';un avant-propos ;;;;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;2;français;Elle;peut deviner;qu';;;;;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;3;français;Elle;peut deviner;ce que;un avant-propos ;;;;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;4;français;Elle;peut deviner;ce que;;;;;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;5;français;Elle;peut deviner;qu';un avant-propos ;qui;a présenté ;le nouveau manuscrit;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;6;français;Elle;peut deviner;qu';un avant-propos ;qui;a présenté ;;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;7;français;Elle;peut deviner;ce qu';un avant-propos ;qui;a présenté ;le nouveau manuscrit;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+11;8;français;Elle;peut deviner;ce qu';un avant-propos ;qui;a présenté ;;a affirmé qu'Elvis est toujours en vie pendant le week-end .
+12;1;français;Le journal;a rapporté;qu';un mélange;;;;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;2;français;Le journal;a rapporté;qu';;;;;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;3;français;Le journal;a rapporté;ce qu';un mélange;;;;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;4;français;Le journal;a rapporté;ce qu';;;;;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;5;français;Le journal;a rapporté;qu';un mélange;qui;incluait;de l'huile et du vinaigre;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;6;français;Le journal;a rapporté;qu';un mélange;qui;incluait;;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;7;français;Le journal;a rapporté;ce qu';un mélange;qui;incluait;de l'huile et du vinaigre;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+12;8;français;Le journal;a rapporté;ce qu';un mélange;qui;incluait;;était utilisé pour la vinaigrette à chaque fois qu'elle cuisinait.
+13;1;français;Nous;rappelons;qu';une critique ;;;;a trouvé un soutien en ligne en fin d'après-midi .
+13;2;français;Nous;rappelons;qu';;;;;a trouvé un soutien en ligne en fin d'après-midi .
+13;3;français;Nous;rappelons;ce qu';une critique ;;;;a trouvé un soutien en ligne en fin d'après-midi .
+13;4;français;Nous;rappelons;ce qu';;;;;a trouvé un soutien en ligne en fin d'après-midi .
+13;5;français;Nous;rappelons;qu';une critique ;qui;visait;l'industrie des combustibles fossiles;a trouvé un soutien en ligne en fin d'après-midi .
+13;6;français;Nous;rappelons;qu';une critique ;qui;visait;;a trouvé un soutien en ligne en fin d'après-midi .
+13;7;français;Nous;rappelons;ce qu';une critique ;qui;visait;l'industrie des combustibles fossiles;a trouvé un soutien en ligne en fin d'après-midi .
+13;8;français;Nous;rappelons;ce qu';une critique ;qui;visait;;a trouvé un soutien en ligne en fin d'après-midi .
+14;1;français;Je;me souviens;qu';une diatribe;;;;a été publiée dans le journal local hier soir.
+14;2;français;Je;me souviens;qu';;;;;a été publiée dans le journal local hier soir.
+14;3;français;Je;me souviens;ce qu';une diatribe;;;;a été publiée dans le journal local hier soir.
+14;4;français;Je;me souviens;ce qu';;;;;a été publiée dans le journal local hier soir.
+14;5;français;Je;me souviens;qu';une diatribe;qui;a critiqué;le maire;a été publiée dans le journal local hier soir.
+14;6;français;Je;me souviens;qu';une diatribe;qui;a critiqué;;a été publiée dans le journal local hier soir.
+14;7;français;Je;me souviens;celui qu';une diatribe;qui;a critiqué;le maire;a été publiée dans le journal local hier soir.
+14;8;français;Je;me souviens;celui qu';une diatribe;qui;a critiqué;;a été publiée dans le journal local hier soir.
+15;1;français;Notre ami;a deviné;qu';une photo ;;;;est apparue dans le journal hier après-midi .
+15;2;français;Notre ami;a deviné;qu';;;;;est apparue dans le journal hier après-midi .
+15;3;français;Notre ami;a deviné;ce qu';une photo ;;;;est apparue dans le journal hier après-midi .
+15;4;français;Notre ami;a deviné;ce qu';;;;;est apparue dans le journal hier après-midi .
+15;5;français;Notre ami;a deviné;qu';une photo ;qui;montrait;le condamné;est apparue dans le journal hier après-midi .
+15;6;français;Notre ami;a deviné;qu';une photo ;qui;montrait;;est apparue dans le journal hier après-midi .
+15;7;français;Notre ami;a deviné;celui qu';une photo ;qui;montrait;le condamné;est apparue dans le journal hier après-midi .
+15;8;français;Notre ami;a deviné;celui qu';une photo ;qui;montrait;;est apparue dans le journal hier après-midi .
+16;1;français;Le maire;m'a dit;qu';une photo ;;;;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;2;français;Le maire;m'a dit;qu';;;;;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;3;français;Le maire;m'a dit;celle qu';une photo ;;;;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;4;français;Le maire;m'a dit;celle qu';;;;;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;5;français;Le maire;m'a dit;qu';une photo ;qui;a choqué;le public;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;6;français;Le maire;m'a dit;qu';une photo ;qui;a choqué;;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;7;français;Le maire;m'a dit;celui qu';une photo ;qui;a choqué;le public;avait été prise par le correspondant de guerre deux jours après la bataille .
+16;8;français;Le maire;m'a dit;celui qu';une photo ;qui;a choqué;;avait été prise par le correspondant de guerre deux jours après la bataille .
+17;1;français;Mon ami;se souvient;qu';une description;;;;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;2;français;Mon ami;se souvient;qu';;;;;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;3;français;Mon ami;se souvient;ce qu';une description;;;;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;4;français;Mon ami;se souvient;ce que;;;;;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;5;français;Mon ami;se souvient;qu';une description;qui;se moquait;de la vie de l'abbaye;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;6;français;Mon ami;se souvient;qu';une description;qui;se moquait;;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;7;français;Mon ami;se souvient;de ce qu';une description;qui;se moquait;de la vie de l'abbaye;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+17;8;français;Mon ami;se souvient;de ce qu';une description;qui;se moquait;;n'avait pas été appréciée par l'évêque il y a plus d'un an .
+18;1;français;Le journal;a dit;que;le cadeau ;;;;avait été importé d'Italie pendant mes vacances .
+18;2;français;Le journal;a dit;qu';;;;;avait été importé d'Italie pendant mes vacances .
+18;3;français;Le journal;a dit;ce que;le cadeau ;;;;avait été importé d'Italie pendant mes vacances .
+18;4;français;Le journal;a dit;ce qu';;;;;avait été importé d'Italie pendant mes vacances .
+18;5;français;Le journal;a dit;que;le cadeau ;que;nous avons donné;à Simon;avait été importé d'Italie pendant mes vacances .
+18;6;français;Le journal;a dit;que;le cadeau ;que;nous avons donné;;avait été importé d'Italie pendant mes vacances .
+18;7;français;Le journal;a dit;à qui;le cadeau ;que;nous avons donné;à Simon;avait été importé d'Italie pendant mes vacances .
+18;8;français;Le journal;a dit;à qui;le cadeau ;que;nous avons donné;;avait été importé d'Italie pendant mes vacances .
+19;1;français;Notre voisin;a dit;que;l'argument;;;;a déchiré leur mariage hier .
+19;2;français;Notre voisin;a dit;qu';;;;;a déchiré leur mariage hier .
+19;3;français;Notre voisin;a dit;ce que;l'argument;;;;a déchiré leur mariage hier .
+19;4;français;Notre voisin;a dit;ce qu';;;;;a déchiré leur mariage hier .
+19;5;français;Notre voisin;a dit;que;l'argument;qui;concernait;la garde des enfants;a déchiré leur mariage hier .
+19;6;français;Notre voisin;a dit;que;l'argument;qui;concernait;;a déchiré leur mariage hier .
+19;7;français;Notre voisin;a dit;ce que;l'argument;qui;concernait;la garde des enfants;a déchiré leur mariage hier .
+19;8;français;Notre voisin;a dit;ce que;l'argument;qui;concernait;;a déchiré leur mariage hier .
+20;1;français;Mon ami;m'a dit;qu';une proposition;;;;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;2;français;Mon ami;m'a dit;que;;;;;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;3;français;Mon ami;m'a dit;ce qu';une proposition;;;;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;4;français;Mon ami;m'a dit;ce qu';;;;;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;5;français;Mon ami;m'a dit;qu';une proposition;qu';il présentera;au conseil d'administration;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;6;français;Mon ami;m'a dit;qu';une proposition;qu';il présentera;;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;7;français;Mon ami;m'a dit;à qui;une proposition;qu';il présentera;au conseil d'administration;suggérait d'augmenter les avantages sociaux des employés hier soir .
+20;8;français;Mon ami;m'a dit;à qui;une proposition;qu';il présentera;;suggérait d'augmenter les avantages sociaux des employés hier soir .
+21;1;français;Elle;ne peut pas croire;qu';une conférence;;;;a eu lieu en ville au printemps dernier .
+21;2;français;Elle;ne peut pas croire;qu';;;;;a eu lieu en ville au printemps dernier .
+21;3;français;Elle;ne peut pas croire;ce que;une conférence;;;;a eu lieu en ville au printemps dernier .
+21;4;français;Elle;ne peut pas croire;ce que;;;;;a eu lieu en ville au printemps dernier .
+21;5;français;Elle;ne peut pas croire;qu';une conférence;qui;a popularisé;l'évolution des cellules;a eu lieu en ville au printemps dernier .
+21;6;français;Elle;ne peut pas croire;qu';une conférence;qui;a popularisé;;a eu lieu en ville au printemps dernier .
+21;7;français;Elle;ne peut pas croire;ce qu';une conférence;qui;a popularisé;l'évolution des cellules;a eu lieu en ville au printemps dernier .
+21;8;français;Elle;ne peut pas croire;ce qu';une conférence;qui;a popularisé;;a eu lieu en ville au printemps dernier .

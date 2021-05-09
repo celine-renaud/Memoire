@@ -1,0 +1,97 @@
+﻿;;;1;2;3;4;5;6;7;8
+1;CMP;sg;Jules  ;signale ;à l' étudiant  ;que ;l' orateur ;bâille ;sérieusement ;depuis le début  .
+2;CMP;sg;Paul ;apprend ;à l' électeur ;que  ;le politicien ;ment;franchement;depuis les élections  .
+3;CMP;sg;Sébastien ;avoue ;à la patiente ;que  ;le calmant ;agit;progressivement;depuis un an  .
+4;CMP;sg;Jérôme ;signale ;à la prisonnière ;que  ;le gardien ;vient;parfois;dans la cour  .
+5;CMP;sg;Charles ;explique ;à la victime ;que  ;le traitement ;démarre;lentement;mais sûrement  .
+6;CMP;sg;Benjamin ;rappelle ;à l' adolescent ;que  ;l' éducateur ;boit;souvent;depuis quelques années .
+7;CMP;pl;Bernard ;rappelle ;aux joueuses ;que  ;le casino ;ferme;malheureusement;bien trop vite .
+8;CMP;pl;Laure ;dit ;aux bergères ;que  ;le mouton ;bêle;stupidement;après la tonte .
+9;CMP;pl;Pierre ;annonce ;aux candidates ;que  ;le jury ;délibère;fermement;après l' audition .
+10;CMP;pl;Marc ;répète ;aux populations ;que  ;le malheur ;perdure;fatalement;après le drame .
+11;CMP;pl;Claire ;rappelle ;aux ouvriers ;que  ;la cheminée ;fume;énormément;depuis les travaux .
+12;CMP;pl;Patricia ;dit ;aux clientes ;que  ;le chapeau ;plaît;beaucoup;à cause des plumes
+13;ORC;sg;Fred ;sourit;à l' enfant ;que  ;le curé ;bénit;joyeusement; après chaque messe .
+14;ORC;sg;Lise ;parle ;à la femme ;que  ;le régime ;amincit;étonnamment;facilement .
+15;ORC;sg;Gilles ;parle ;à la travailleuse ;que  ;l' effort ;fatigue;inexorablement;avec le temps .
+16;ORC;sg;Jacques ;pense ;à la patronne ;que  ;le stress ;vieillit;prématurément;malgré les anxiolytiques .
+17;ORC;sg;Patrick ;pense;à la famille;que;la fête;réunit;chaque année;pendant dix jours
+18;ORC;sg;Louise ;sourit;à la gamine;que;la sorcière;inquiète;volontairement;pour Halloween .
+19;ORC;pl;Aude ;plaît;aux gymnastes;que;le massage;détend;toujours;après l' entraînement .
+20;ORC;pl;Luc ;pense;aux fillettes;que;le dragueur;séduit;inlassablement;depuis une heure .
+21;ORC;pl;Anne ;parle;aux actrices;que;le spectateur;applaudit;frénétiquement;à chaque représentation .
+22;ORC;pl;Jeanne ;parle;aux voisines;que;la sortie;excite;rarement;en fin d' année .
+23;ORC;pl;Jean ;téléphone;aux avocats;que;la déception;aigrit;inévitablement;après le procès .
+24;ORC;pl;Roland ;sourit;aux canailles;que;le policier;poursuit;secrètement;depuis un mois .
+1;ORC;pl;Jules ;sourit;aux étudiants;que;l' orateur;endort;sérieusement;depuis le début .
+2;ORC;pl;Paul ;pense;aux électeurs;que;le politicien;déçoit;franchement;depuis les élections .
+3;ORC;pl;Sébastien ;sourit;aux patientes;que;le calmant;affaiblit;progressivement;depuis un an .
+4;ORC;pl;Jérôme ;parle;aux prisonnières;que;le gardien;sort;parfois;dans la cour .
+5;ORC;pl;Charles ;sourit;aux victimes;que;le traitement;guérit;lentement ;mais sûrement .
+6;ORC;pl;Benjamin ;pense;aux adolescents;que;l' éducateur;bat;souvent;depuis quelques années .
+7;ORC;sg;Bernard ;songe;à la joueuse;que;le casino;ruine;malheureusement;bien trop vite .
+8;ORC;sg;Laure ;sourit;à la bergère;que;le mouton;suit;stupidement;après la tonte .
+9;ORC;sg;Pierre ;téléphone;à la candidate;que;le jury;attend;fermement;après l' audition .
+10;ORC;sg;Marc ;pense;à la population;que;le malheur;unit;fatalement;après le drame .
+11;ORC;sg;Claire; plaît;  à l' ouvrier ; que ;la cheminée  ;noircit ; énormément  ;depuis les travaux .
+12;ORC;sg;Patricia ;parle; à la cliente ;que ;le chapeau; grandit; beaucoup; à cause des plumes .
+13;CMP;pl;Fred ;raconte; aux enfants; que;le curé; part; joyeusement; après chaque messe .
+14;CMP;pl;Lise; promet; aux femmes; que  ;le régime ;réussit; étonnamment ;facilement .
+15;CMP;pl;Gilles; rappelle; aux travailleuses; que ;l' effort ;redouble; inexorablemen;t avec le temps .
+16;CMP;pl;Jacques ;explique; aux patronnes; que;  le stress; arrive ;prématurément; malgré les anxiolytiques .
+17;CMP;pl;Patrick; répète; aux familles; que;  la fête; dure; chaque année; pendant dix jours .
+18;CMP;pl;Louise; répète; aux gamines; que;  la sorcière; grimace; volontairement; pour Halloween .
+19;CMP;sg;Aude; répète; à la gymnaste; que ; le massage; débute; toujours; après l' entraînement .
+20;CMP;sg;Luc; dit; à la fillette; que  ;le dragueur; bavarde; inlassablement; depuis une heure .
+21;CMP;sg;Anne; rappelle; à l' actrice; que;  le spectateur; rigole ;frénétiquement; à chaque représentation .
+22;CMP;sg;Jeanne; rappelle; à la voisine ;que;  la sortie; échoue ;rarement; en fin d' année .
+23;CMP;sg;Jean ;répète; à l' avocat ;que ; la déception; persiste; inévitablement ;après le procès .
+24;CMP;sg;Roland ;indique ;à la canaille; que  ;le policier ;intervient ;secrètement; depuis un mois .
+1;CMP;pl;Jules; signale; aux étudiants ;que ; l' orateur ;bâille ;sérieusement ;depuis le début .
+2;CMP;pl;Paul ;apprend ;aux électeurs; que  ;le politicien ;ment ;franchement ;depuis les élections .
+3;CMP;pl;Sébastien; avoue ;aux patientes; que ; le calmant ;agit; progressivement; depuis un an .
+4;CMP;pl;Jérôme; signale ;aux prisonnières; que  ;le gardien; vient; parfois; dans la cour .
+5;CMP;pl;Charles; explique; aux victimes; que;  le traitement ;démarre ;lentement; mais sûrement .
+6;CMP;pl;Benjamin ;rappelle ;aux adolescents; que ; l' éducateur; boit ;souvent ;depuis quelques années .
+7;CMP;sg;Bernard ;rappelle; à la joueuse; que  ;le casino; ferme ;malheureusement ;bien trop vite .
+8;CMP;sg;Laure ;dit; à la bergère; que  ;le mouton ;bêle ;stupidement ;après la tonte .
+9;CMP;sg;Pierre; annonce ;à la candidate; que  ;le jury ;délibère ;fermement ;après l' audition .
+10;CMP;sg;Marc ;répète ;à la population ;que  ;le malheur; perdure ;fatalement ;après le drame .
+11;CMP;sg;Claire ;rappelle; à l' ouvrier ;que;la cheminée ;fume ;énormément ;depuis les travaux .
+12;CMP;sg;Patricia ;dit ;à la cliente; que ; le chapeau; plaît; beaucoup ;à cause des plumes .
+13;ORC;pl;Fred ;sourit; aux enfants; que  ;le curé; bénit ;joyeusement; après chaque messe .
+14;ORC;pl;Lise; parle; aux femmes ;que ; le régime ;amincit ;étonnamment; facilement .
+15;ORC;pl;Gilles ;parle ;aux travailleuses; que;  l' effort ;fatigue ;inexorablement; avec le temps .
+16;ORC;pl;Jacques ;pense ;aux patronnes ;que  ;le stress ;vieillit ;prématurément; malgré les anxiolytiques .
+17;ORC;pl;Patrick ;pense; aux familles; que;  la fête; réunit; chaque année; pendant dix jours .
+18;ORC;pl;Louise; sourit; aux gamines; que;  la sorcière; inquiète; volontairement; pour Halloween .
+19;ORC;sg;Aude; plaît; à la gymnaste; que;  le massage; détend; toujours; après l' entraînement .
+20;ORC;sg;Luc; pense; à la fillette; que;  le dragueur; séduit; inlassablement; depuis une heure .
+21;ORC;sg;Anne ;parle; à l' actrice; que;  le spectateur; applaudit; frénétiquement; à chaque représentation .
+22;ORC;sg;Jeanne; parle; à la voisine; que;  la sortie; excite; rarement; en fin d' année .
+23;ORC;sg;Jean ;téléphone; à l' avocat; que ; la déception ;aigrit; inévitablement; après le procès .
+24;ORC;sg;Roland ;sourit; à la canaille; que ; le policier ;poursuit; secrètement; depuis un mois .
+1;ORC;sg;Jules ;sourit; à l' étudiant; que;  l' orateur; endort; sérieusement; depuis le début .
+2;ORC;sg;Paul ;pense; à l' électeur ;que ; le politicien ;déçoit; franchement; depuis les élections .
+3;ORC;sg;Sébastien ;sourit; à la patiente; que;  le calmant ;affaiblit; progressivement ;depuis un an .
+4;ORC;sg;Jérôme ;parle ;à la prisonnière ;que;  le gardien ;sort ;parfois; dans la cour .
+5;ORC;sg;Charles; sourit; à la victime; que;  le traitement; guérit; lentement; mais sûrement .
+6;ORC;sg;Benjamin; pense ;à l' adolescent; que;  l' éducateur; bat; souvent; depuis quelques années .
+7;ORC;pl;Bernard ;songe; aux joueuses; que;  le casino; ruine; malheureusement; bien trop vite .
+8;ORC;pl;Laure ;sourit; aux bergères; que ; le mouton; suit; stupidement; après la tonte .
+9;ORC;pl;Pierre; téléphone; aux candidates; que;  le jury; attend; fermement; après l' audition .
+10;ORC;pl;Marc; pense ;aux populations ;que ; le malheur; unit; fatalement; après le drame .
+11;ORC;pl;Claire; plaît; aux ouvriers; que;  la cheminée; noircit; énormément; depuis les travaux .
+12;ORC;pl;Patricia; parle; aux clientes; que  ;le chapeau; grandit; beaucoup; à cause des plumes .
+13;CMP;sg;Fred; raconte ;à l' enfant; que ; le curé ;part; joyeusement; après chaque messe .
+14;CMP;sg;Lise ;promet; à la femme ;que;  le régime; réussit; étonnamment; facilement .
+15;CMP;sg;Gilles; rappelle ;à la travailleuse; que;  l' effort; redouble ;inexorablement ;avec le temps .
+16;CMP;sg;Jacques; explique; à la patronne ;que;  le stress; arrive; prématurément; malgré les anxiolytiques .
+17;CMP;sg;Patrick ;répète; à la famille; que;  la fête; dure; chaque année; pendant dix jours .
+18;CMP;sg;Louise; répète; à la gamine; que;  la sorcière; grimace; volontairement; pour Halloween .
+19;CMP;pl;Aude; répète; aux gymnastes; que ; le massage; débute; toujours; après l' entraînement .
+20;CMP;pl;Luc ;dit; aux fillettes; que ; le dragueur; bavarde ;inlassablement; depuis une heure .
+21;CMP;pl;Anne; rappelle; aux actrices; que;  le spectateur ;rigole; frénétiquement; à chaque représentation .
+22;CMP;pl;Jeanne ;rappelle; aux voisines ;que ; la sortie; échoue ;rarement; en fin d' année .
+23;CMP;pl;Jean; répète; aux avocats; que ; la déception; persiste; inévitablement ;après le procès .
+24;CMP;pl;Roland ;indique; aux canailles; que;  le policier; intervient; secrètement ;depuis un mois .

@@ -1,0 +1,291 @@
+numero;variable;langue;phrase;;;;;;;;;
+1;1;anglais;I;know;that;my brother;said;;our aunt;devoured;the cake at the party;
+1;2;anglais;I;know;that;my brother;said;;our aunt;devoured;at the party .;
+1;3;anglais;I;know;what;my brother;said;;our aunt;devoured;the cake at the party;
+1;4;anglais;I;know;what;my brother;said;;our aunt;devoured;at the party .;
+1;5;anglais;I;know;that;my brother;said;that;our aunt;devoured;the cake at the party;.
+1;6;anglais;I;know;that;my brother;said;that;our aunt;devoured;at the party .;
+1;7;anglais;I;know;what;my brother;said;that;our aunt;devoured;the cake at the party;.
+1;8;anglais;I;know;what;my brother;said;that;our aunt;devoured;at the party .;
+1;9;anglais;I;know;that;my brother;said;whether;our aunt;devoured;the cake at the party;
+1;10;anglais;I;know;that;my brother;said;whether;our aunt;devoured;at the party .;
+1;11;anglais;I;know;what;my brother;said;whether;our aunt;devoured;the cake at the party;
+1;12;anglais;I;know;what;my brother;said;whether ;our aunt ;devoured ;at the party. .;
+2;1;anglais;My neighbor;told me;that;the fireman;believes;;the dog;caught;the cat in the garage;
+2;2;anglais;My neighbor;told me;that;the fireman;believes;;the dog;caught;in the garage .;
+2;3;anglais;My neighbor;told me;what;the fireman;believes;;the dog;caught;the cat in the garage;
+2;4;anglais;My neighbor;told me;what;the fireman;believes;;the dog;caught;in the garage .;
+2;5;anglais;My neighbor;told me;that;the fireman;believes;that;the dog;caught;the cat in the garage;.
+2;6;anglais;My neighbor;told me;that;the fireman;believes;that;the dog;caught;in the garage .;
+2;7;anglais;My neighbor;told me;what;the fireman;believes;that;the dog;caught;the cat in the garage;.
+2;8;anglais;My neighbor;told me;what;the fireman;believes;that;the dog;caught;in the garage .;
+2;9;anglais;My neighbor;told me;that;the fireman;believes;whether;the dog;caught;the cat in the garage;
+2;10;anglais;My neighbor;told me;that;the fireman;believes;whether;the dog;caught;in the garage .;
+2;11;anglais;My neighbor;told me;what;the fireman;believes;whether;the dog;caught;the cat in the garage;
+2;12;anglais;My neighbor;told me;what;the fireman;believes;whether;the dog;caught;in the garage .;
+3;1;anglais;I;know;that;our assistant;believes;;the committee;delivered;the report by the deadline;
+3;2;anglais;I;know;that;our assistant;believes;;the committee;delivered;by the deadline .;
+3;3;anglais;I;know;what;our assistant;believes;;the committee;delivered;the report by the deadline;
+3;4;anglais;I;know;what;our assistant;believes;;the committee;delivered;by the deadline .;
+3;5;anglais;I;know;that;our assistant;believes;that;the committee;delivered;the report by the deadline;.
+3;6;anglais;I;know;that;our assistant;believes;that;the committee;delivered;by the deadline .;
+3;7;anglais;I;know;what;our assistant;believes;that;the committee;delivered;the report by the deadline;.
+3;8;anglais;I;know;what;our assistant;believes;that;the committee;delivered;by the deadline .;
+3;9;anglais;I;know;that;our assistant;believes;whether;the committee;delivered;the report by the deadline;
+3;10;anglais;I;know;that;our assistant;believes;whether;the committee;delivered;by the deadline .;
+3;11;anglais;I;know;what;our assistant;believes;whether;the committee;delivered;the report by the deadline;
+3;12;anglais;I;know;what;our assistant;believes;whether;the committee;delivered;by the deadline .;
+4;1;anglais;You;remember;that;I;discovered;;the water;ruined;the new carpet during the flood;.
+4;2;anglais;You;remember;that;I;discovered;;the water;ruined;during the flood .;
+4;3;anglais;You;remember;what;I;discovered;;the water;ruined;the new carpet during the flood;.
+4;4;anglais;You;remember;what;I;discovered;;the water;ruined;during the flood .;
+4;5;anglais;You;remember;that;I;discovered;that;the water;ruined;the new carpet during the flood .;
+4;6;anglais;You;remember;that;I;discovered;that;the water;ruined;during the flood .;
+4;7;anglais;You;remember;what;I;discovered;that;the water;ruined;the new carpet during the flood .;
+4;8;anglais;You;remember;what;I;discovered;that;the water;ruined;during the flood .;
+4;9;anglais;You;remember;that;I;discovered;whether;the water;ruined;the new carpet during the flood;
+4;10;anglais;You;remember;that;I;discovered;whether;the water;ruined;during the flood .;
+4;11;anglais;You;remember;what;I;discovered;whether;the water;ruined;the new carpet during the flood;
+4;12;anglais;You;remember;what;I;discovered;whether;the water;ruined;during the flood .;
+5;1;anglais;She;told me;that;the teacher;suspects;;the star student;stole;answers to the test last semester .;
+5;2;anglais;She;told me;that;the teacher;suspects;;the star student;stole;last semester .;
+5;3;anglais;She;told me;what;the teacher;suspects;;the star student;stole;answers to the test last semester .;
+5;4;anglais;She;told me;what;the teacher;suspects;;the star student;stole;last semester .;
+5;5;anglais;She;told me;that;the teacher;suspects;that;the star student;stole;answers to the test last semester .;
+5;6;anglais;She;told me;that;the teacher;suspects;that;the star student;stole;last semester .;
+5;7;anglais;She;told me;what;the teacher;suspects;that;the star student;stole;answers to the test last semester .;
+5;8;anglais;She;told me;what;the teacher;suspects;that;the star student;stole;last semester .;
+5;9;anglais;She;told me;that;the teacher;suspects;whether;the star student;stole;answers to the test last semester;
+5;10;anglais;She;told me;that;the teacher;suspects;whether;the star student;stole;last semester .;
+5;11;anglais;She;told me;what;the teacher;suspects;whether;the star student;stole;answers to the test last semester;
+5;12;anglais;She;told me;what;the teacher;suspects;whether;the star student;stole;last semester .;
+6;1;anglais;She;knows;that;the expert;can tell;;the collector;forged;the painting with the help of modern technology;.
+6;2;anglais;She;knows;that;the expert;can tell;;the collector;forged;with the help of modern technology .;
+6;3;anglais;She;knows;what;the expert;can tell;;the collector;forged;the painting with the help of modern technology;.
+6;4;anglais;She;knows;what;the expert;can tell;;the collector;forged;with the help of modern technology .;
+6;5;anglais;She;knows;that;the expert;can tell;that;the collector;forged;the painting with the help of modern technology .;
+6;6;anglais;She;knows;that;the expert;can tell;that;the collector;forged;with the help of modern technology .;
+6;7;anglais;She;knows;what;the expert;can tell;that;the collector;forged;the painting with the help of modern technology .;
+6;8;anglais;She;knows;what;the expert;can tell;that;the collector;forged;with the help of modern technology .;
+6;9;anglais;She;knows;that;the expert;can tell;whether;the collector;forged;the painting with the help of modern technology;
+6;10;anglais;She;knows;that;the expert;can tell;whether;the collector;forged;with the help of modern technology .;
+6;11;anglais;She;knows;what;the expert;can tell;whether;the collector;forged;the painting with the help of modern technology;
+6;12;anglais;She ;knows ;what ;the expert ;can tell ;whether;the collector;forged;with the help of modern technology .;
+7;1;anglais;We all;remember;that;the politician;said;;the convict;smuggled;a gun into the prison .;
+7;2;anglais;We all;remember;that;the politician;said;;the convict;smuggled;into the prison .;
+7;3;anglais;We all;remember;what;the politician;said;;the convict;smuggled;a gun into the prison .;
+7;4;anglais;We all;remember;what;the politician;said;;the convict;smuggled;into the prison .;
+7;5;anglais;We all;remember;that;the politician;said;that;the convict;smuggled;a gun into the prison .;
+7;6;anglais;We all;remember;that;the politician;said;that;the convict;smuggled;into the prison .;
+7;7;anglais;We all;remember;what;the politician;said;that;the convict;smuggled;a gun into the prison .;
+7;8;anglais;We all;remember;what;the politician;said;that;the convict;smuggled;into the prison .;
+7;9;anglais;We all;remember;that;the politician;said;whether;the convict;smuggled;a gun into the prison;
+7;10;anglais;We all;remember;that;the politician;said;whether;the convict;smuggled;into the prison .;
+7;11;anglais;We all;remember;what;the politician;said;whether;the convict;smuggled;a gun into the prison;
+7;12;anglais;We all;remember;what;the politician;said;whether;the convict;smuggled;into the prison .;
+8;1;anglais;My friend;reported;that;the banker;predicts;;the company;will sell;multiple assets next quarter .;
+8;2;anglais;My friend;reported;that;the banker;predicts;;the company;will sell;next quarter .;
+8;3;anglais;My friend;reported;what;the banker;predicts;;the company;will sell;multiple assets next quarter .;
+8;4;anglais;My friend;reported;what;the banker;predicts;;the company;will sell;next quarter .;
+8;5;anglais;My friend;reported;that;the banker;predicts;that;the company;will sell;multiple assets next quarter .;
+8;6;anglais;My friend;reported;that;the banker;predicts;that;the company;will sell;next quarter .;
+8;7;anglais;My friend;reported;what;the banker;predicts;that;the company;will sell;multiple assets next quarter .;
+8;8;anglais;My friend;reported;what;the banker;predicts;that;the company;will sell;next quarter .;
+8;9;anglais;My friend;reported;that;the banker;predicts;whether;the company;will sell;multiple assets next quarter;
+8;10;anglais;My friend;reported;that;the banker;predicts;whether;the company;will sell;next quarter .;
+8;11;anglais;My friend;reported;what;the banker;predicts;whether;the company;will sell;multiple assets next quarter;
+8;12;anglais;My friend;reported;what;the banker;predicts;whether;the company;will sell;next quarter .;
+9;1;anglais;I;have ani idea about;that;the actor;suspects;;her rival;sabotaged;the audition last week .;
+9;2;anglais;I;have ani idea about;that;the actor;suspects;;her rival;sabotaged;last week .;
+9;3;anglais;I;have ani idea about;what;the actor;suspects;;her rival;sabotaged;the audition last week .;
+9;4;anglais;I;have ani idea about;what;the actor;suspects;;her rival;sabotaged;last week .;
+9;5;anglais;I;have ani idea about;that;the actor;suspects;that;her rival;sabotaged;the audition last week .;
+9;6;anglais;I;have ani idea about;that;the actor;suspects;that;her rival;sabotaged;last week .  ??;
+9;7;anglais;I;have ani idea about;what;the actor;suspects;that;her rival;sabotaged;the audition last week .;
+9;8;anglais;I;have ani idea about;what;the actor;suspects;that;her rival;sabotaged;last week .;
+9;9;anglais;I;have ani idea about;that;the actor;suspects;whether;her rival;sabotaged;the audition last week;
+9;10;anglais;I;have ani idea about;that;the actor;suspects;whether;her rival;sabotaged;last week .;
+9;11;anglais;I;have ani idea about;what;the actor;suspects;whether;her rival;sabotaged;the audition last week;
+9;12;anglais;I;have ani idea about;what;the actor;suspects;whether;her rival;sabotaged;last week .;
+10;1;anglais;She;can guess;that;our friend;predicts;;the movie star;will be awarded;an oscar for her hard work .;
+10;2;anglais;She;can guess;that;our friend;predicts;;the movie star;will be awarded;for her hard work .;
+10;3;anglais;She;can guess;what;our friend;predicts;;the movie star;will be awarded;an oscar for her hard work .;
+10;4;anglais;She;can guess;what;our friend;predicts;;the movie star;will be awarded;for her hard work .;
+10;5;anglais;She;can guess;that;our friend;predicts;that;the movie star;will be awarded;an oscar for her hard work .;
+10;6;anglais;She;can guess;that;our friend;predicts;that;the movie star;will be awarded;for her hard work .;
+10;7;anglais;She;can guess;what;our friend;predicts;that;the movie star;will be awarded;an oscar for her hard work .;
+10;8;anglais;She;can guess;what;our friend;predicts;that;the movie star;will be awarded;for her hard work .;
+10;9;anglais;She;can guess;that;our friend;predicts;whether;the movie star;will be awarded;an oscar for her hard work;
+10;10;anglais;She;can guess;that;our friend;predicts;whether;the movie star;will be awarded;for her hard work .;
+10;11;anglais;She;can guess;what;our friend;predicts;whether;the movie star;will be awarded;an oscar for her hard work;
+10;12;anglais;She;can guess;what;our friend;predicts;whether;the movie star;will be awarded;for her hard work .;
+11;1;anglais;The newspaper;reported;that;the police;know;;the suspect;killed;the witness in the middle of the night .;
+11;2;anglais;The newspaper;reported;that;the police;know;;the suspect;killed;in the middle of the night .;
+11;3;anglais;The newspaper;reported;who;the police;know;;the suspect;killed;the witness in the middle of the night .;
+11;4;anglais;The newspaper;reported;who;the police;know;;the suspect;killed;in the middle of the night .;
+11;5;anglais;The newspaper;reported;that;the police;know;that;the suspect;killed;the witness in the middle of the night .;
+11;6;anglais;The newspaper;reported;that;the police;know;that;the suspect;killed;in the middle of the night .;
+11;7;anglais;The newspaper;reported;who;the police;know;that;the suspect;killed;the witness in the middle of the night .;
+11;8;anglais;The newspaper;reported;who;the police;know;that;the suspect;killed;in the middle of the night .;
+11;9;anglais;The newspaper;reported;that;the police;know;whether;the suspect;killed;the witness in the middle of the night;
+11;10;anglais;The newspaper;reported;that;the police;know;whether;the suspect;killed;in the middle of the night .;
+11;11;anglais;The newspaper;reported;who;the police;know;whether;the suspect;killed;the witness in the middle of the night;
+11;12;anglais;The newspaper;reported;who;the police;know;whether;the suspect;killed;in the middle of the night .;
+12;1;anglais;We;recall;that;the old lady;heard;;the hot tea;warmed;the young girl after the shocking incident .;
+12;2;anglais;We;recall;that;the old lady;heard;;the hot tea;warmed;after the shocking incident .;
+12;3;anglais;We;recall;who;the old lady;heard;;the hot tea;warmed;the young girl after the shocking incident .;
+12;4;anglais;We;recall;who;the old lady;heard;;the hot tea;warmed;after the shocking incident .;
+12;5;anglais;We;recall;that;the old lady;heard;that;the hot tea;warmed;the young girl after the shocking incident .;
+12;6;anglais;We;recall;that;the old lady;heard;that;the hot tea;warmed;after the shocking incident .;
+12;7;anglais;We;recall;who;the old lady;heard;that;the hot tea;warmed;the young girl after the shocking incident .;
+12;8;anglais;We;recall;who;the old lady;heard;that;the hot tea;warmed;after the shocking incident .;
+12;9;anglais;We;recall;that;the old lady;heard;whether;the hot tea;warmed;the young girl after the shocking incident .;
+12;10;anglais;We;recall;that;the old lady;heard;whether;the hot tea;warmed;after the shocking incident .;
+12;11;anglais;We;recall;who;the old lady;heard;whether;the hot tea;warmed;the young girl after the shocking incident .;
+12;12;anglais;We;recall;who;the old lady;heard;whether;the hot tea;warmed;after the shocking incident .;
+13;1;anglais;I;remember;that;the doctor;decided;;the nurse;should administer;the new medicine to the sick patient .;
+13;2;anglais;I;remember;that;the doctor;decided;;the nurse;should administer;to the sick patient .;
+13;3;anglais;I;remember;what;the doctor;decided;;the nurse;should administer;the new medicine to the sick patient .;
+13;4;anglais;I;remember;what;the doctor;decided;;the nurse;should administer;to the sick patient .;
+13;5;anglais;I;remember;that;the doctor;decided;that;the nurse;should administer;the new medicine to the sick patient .;
+13;6;anglais;I;remember;that;the doctor;decided;that;the nurse;should administer;to the sick patient .;
+13;7;anglais;I;remember;what;the doctor;decided;that;the nurse;should administer;the new medicine to the sick patient .;
+13;8;anglais;I;remember;what;the doctor;decided;that;the nurse;should administer;to the sick patient .;
+13;9;anglais;I;remember;that;the doctor;decided;whether;the nurse;should administer;the new medicine to the sick patient;
+13;10;anglais;I;remember;that;the doctor;decided;whether;the nurse;should administer;to the sick patient .;
+13;11;anglais;I;remember;what;the doctor;decided;whether;the nurse;should administer;the new medicine to the sick patient;
+13;12;anglais;I;remember;what;the doctor;decided;whether;the nurse;should administer;to the sick patient .;
+14;1;anglais;Our friend;guessed;that;my friend;discovered;;the gossip column;revealed;family secrets to the whole town .;
+14;2;anglais;Our friend;guessed;that;my friend;discovered;;the gossip column;revealed;to the whole town .;
+14;3;anglais;Our friend;guessed;what;my friend;discovered;;the gossip column;revealed;family secrets to the whole town .;
+14;4;anglais;Our friend;guessed;what;my friend;discovered;;the gossip column;revealed;to the whole town .;
+14;5;anglais;Our friend;guessed;that;my friend;discovered;that;the gossip column;revealed;family secrets to the whole town .;
+14;6;anglais;Our friend;guessed;that;my friend;discovered;that;the gossip column;revealed;to the whole town .;
+14;7;anglais;Our friend;guessed;what;my friend;discovered;that;the gossip column;revealed;family secrets to the whole town .;
+14;8;anglais;Our friend;guessed;what;my friend;discovered;that;the gossip column;revealed;to the whole town .;
+14;9;anglais;Our friend;guessed;that;my friend;discovered;whether;the gossip column;revealed;family secrets to the whole town;
+14;10;anglais;Our friend;guessed;that;my friend;discovered;whether;the gossip column;revealed;to the whole town .;
+14;11;anglais;Our friend;guessed;what;my friend;discovered;whether;the gossip column;revealed;family secrets to the whole town;
+14;12;anglais;Our friend;guessed;what;my friend;discovered;whether;the gossip column;revealed;to the whole town .;
+15;1;anglais;The mayor;told me;that;the town clerk;heard;;the town;repaired;the parking lot over the summer .;
+15;2;anglais;The mayor;told me;that;the town clerk;heard;;the town;repaired;over the summer .;
+15;3;anglais;The mayor;told me;what;the town clerk;heard;;the town;repaired;the parking lot over the summer .;
+15;4;anglais;The mayor;told me;what;the town clerk;heard;;the town;repaired;over the summer .;
+15;5;anglais;The mayor;told me;that;the town clerk;heard;that;the town;repaired;the parking lot over the summer .;
+15;6;anglais;The mayor;told me;that;the town clerk;heard;that;the town;repaired;over the summer .;
+15;7;anglais;The mayor;told me;what;the town clerk;heard;that;the town;repaired;the parking lot over the summer .;
+15;8;anglais;The mayor;told me;what;the town clerk;heard;that;the town;repaired;over the summer .;
+15;9;anglais;The mayor;told me;that;the town clerk;heard;whether;the town;repaired;the parking lot over the summer;
+15;10;anglais;The mayor;told me;that;the town clerk;heard;whether;the town;repaired;over the summer .;
+15;11;anglais;The mayor;told me;what;the town clerk;heard;whether;the town;repaired;the parking lot over the summer;
+15;12;anglais;The mayor;told me;what;the town clerk;heard;whether;the town;repaired;over the summer .;
+16;1;anglais;My friend;remembers;that;the senator;testified about;;the government;collected;personal data over the past decade;.
+16;2;anglais;My friend;remembers;that;the senator;testified about;;the government;collected;over the past decade .;
+16;3;anglais;My friend;remembers;what;the senator;testified about;;the government;collected;personal data over the past decade;.
+16;4;anglais;My friend;remembers;what;the senator;testified about;;the government;collected;over the past decade .;
+16;5;anglais;My friend;remembers;that;the senator;testified about;that;the government;collected;personal data over the past decade .;
+16;6;anglais;My friend;remembers;that;the senator;testified about;that;the government;collected;over the past decade .;
+16;7;anglais;My friend;remembers;what;the senator;testified about;that;the government;collected;personal data over the past decade .;
+16;8;anglais;My friend;remembers;what;the senator;testified about;that;the government;collected;over the past decade .;
+16;9;anglais;My friend;remembers;that;the senator;testified about;whether;the government;collected;personal data over the past decade;
+16;10;anglais;My friend;remembers;that;the senator;testified about;whether;the government;collected;over the past decade .;
+16;11;anglais;My friend;remembers;what;the senator;testified about;whether;the government;collected;personal data over the past decade;
+16;12;anglais;My friend;remembers;what;the senator;testified about;whether;the government;collected;over the past decade .;
+17;1;anglais;The newspaper;said;that;the bureaucrat;discovered;;the manager;followed;company regulations during the financial crisis .;
+17;2;anglais;The newspaper;said;that;the bureaucrat;discovered;;the manager;followed;during the financial crisis .;
+17;3;anglais;The newspaper;said;what;the bureaucrat;discovered;;the manager;followed;company regulations during the financial crisis .;
+17;4;anglais;The newspaper;said;what;the bureaucrat;discovered;;the manager;followed;during the financial crisis .;
+17;5;anglais;The newspaper;said;that;the bureaucrat;discovered;that;the manager;followed;company regulations during the financial crisis .;
+17;6;anglais;The newspaper;said;that;the bureaucrat;discovered;that;the manager;followed;during the financial crisis .;
+17;7;anglais;The newspaper;said;what;the bureaucrat;discovered;that;the manager;followed;company regulations during the financial crisis .;
+17;8;anglais;The newspaper;said;what;the bureaucrat;discovered;that;the manager;followed;during the financial crisis .;
+17;9;anglais;The newspaper;said;that;the bureaucrat;discovered;whether;the manager;followed;company regulations during the financial crisis;
+17;10;anglais;The newspaper;said;that;the bureaucrat;discovered;whether;the manager;followed;during the financial crisis .;
+17;11;anglais;The newspaper;said;what;the bureaucrat;discovered;whether;the manager;followed;company regulations during the financial crisis;
+17;12;anglais;The newspaper;said;what;the bureaucrat;discovered;whether;the manager;followed;during the financial crisis .;
+18;1;anglais;Our neighbor;said;that;the professor;intuits;;the student;despised;the assigned materials last semester .;
+18;2;anglais;Our neighbor;said;that;the professor;intuits;;the student;despised;last semester .;
+18;3;anglais;Our neighbor;said;what;the professor;intuits;;the student;despised;the assigned materials last semester .;
+18;4;anglais;Our neighbor;said;what;the professor;intuits;;the student;despised;last semester .;
+18;5;anglais;Our neighbor;said;that;the professor;intuits;that;the student;despised;the assigned materials last semester .;
+18;6;anglais;Our neighbor;said;that;the professor;intuits;that;the student;despised;last semester .;
+18;7;anglais;Our neighbor;said;what;the professor;intuits;that;the student;despised;the assigned materials last semester .;
+18;8;anglais;Our neighbor;said;what;the professor;intuits;that;the student;despised;last semester .;
+18;9;anglais;Our neighbor;said;that;the professor;intuits;whether;the student;despised;the assigned materials last semester;
+18;10;anglais;Our neighbor;said;that;the professor;intuits;whether;the student;despised;last semester .;
+18;11;anglais;Our neighbor;said;what;the professor;intuits;whether;the student;despised;the assigned materials last semester;
+18;12;anglais;Our neighbor;said;what;the professor;intuits;whether;the student;despised;last semester .;
+19;1;anglais;My friend;told me;that;the consultant;assumes;;the university;hired;a new administrator last week .;
+19;2;anglais;My friend;told me;that;the consultant;assumes;;the university;hired;last week .;
+19;3;anglais;My friend;told me;who;the consultant;assumes;;the university;hired;a new administrator last week .;
+19;4;anglais;My friend;told me;who;the consultant;assumes;;the university;hired;last week .;
+19;5;anglais;My friend;told me;that;the consultant;assumes;that;the university;hired;a new administrator last week .;
+19;6;anglais;My friend;told me;that;the consultant;assumes;that;the university;hired;last week .;
+19;7;anglais;My friend;told me;who;the consultant;assumes;that;the university;hired;a new administrator last week .;
+19;8;anglais;My friend;told me;who;the consultant;assumes;that;the university;hired;last week .;
+19;9;anglais;My friend;told me;that;the consultant;assumes;whether;the university;hired;a new administrator last week;
+19;10;anglais;My friend;told me;that;the consultant;assumes;whether;the university;hired;last week .;
+19;11;anglais;My friend;told me;who;the consultant;assumes;whether;the universi20,2,anglais,She can not believe that I forgot my good friend married last winter .
+20,3,anglais,She can not believe who I forgot my good friend married my cousin last winter .
+20,4,anglais,She can not believe who I forgot my good friend married last winter .
+20,5,anglais,She can not believe that I forgot that my good friend married my cousin last winter .
+20,6,anglais,She can not believe that I forgot that my good friend married last winter .
+20,7,anglais,She can not believe who I forgot that my good friend married my cousin last winter .
+20,8,anglais,She can not believe who I forgot that my good friend married last winter .
+20,9,anglais,She can not believe that I forgot whether my good friend married my cousin last winter .
+20,10,anglais,She can not believe that I forgot whether my good friend married last winter .
+20,11,anglais,She can not believe who I forgot whether my good friend married my cousin last winter .
+20,12,anglais,She can not believe who I forgot whether my good friend married last winter .
+21,1,anglais,Our neighbor reminded us that she remembers the tow truck hauled the wagon out of the ditch .
+21,2,anglais,Our neighbor reminded us that she remembers the tow truck hauled out of the ditch .
+21,3,anglais,Our neighbor reminded us what she remembers the tow truck hauled the wagon out of the ditch .
+21,4,anglais,Our neighbor reminded us what she remembers the tow truck hauled out of the ditch .
+21,5,anglais,Our neighbor reminded us that she remembers that the tow truck hauled the wagon out of the ditch .
+21,6,anglais,Our neighbor reminded us that she remembers that the tow truck hauled out of the ditch .
+21,7,anglais,Our neighbor reminded us what she remembers that the tow truck hauled the wagon out of the ditch .
+21,8,anglais,Our neighbor reminded us what she remembers that the tow truck hauled out of the ditch .
+21,9,anglais,Our neighbor reminded us that she remembers whether the tow truck hauled the wagon out of the ditch .
+21,10,anglais,Our neighbor reminded us that she remembers whether the tow truck hauled out of the ditch .
+21,11,anglais,Our neighbor reminded us what she remembers whether the tow truck hauled the wagon out of the ditch .
+21,12,anglais,Our neighbor reminded us what she remembers whether the tow truck hauled out of the ditch .
+22,1,anglais,The shop owner told me that the baker forgot the restaurant prepared a new recipe earlier that week .
+22,2,anglais,The shop owner told me that the baker forgot the restaurant prepared earlier that week .
+22,3,anglais,The shop owner told me what the baker forgot the restaurant prepared a new recipe earlier that week .
+22,4,anglais,The shop owner told me what the baker forgot the restaurant prepared earlier that week .
+22,5,anglais,The shop owner told me that the baker forgot that the restaurant prepared a new recipe earlier that week .
+22,6,anglais,The shop owner told me that the baker forgot that the restaurant prepared earlier that week .
+22,7,anglais,The shop owner told me what the baker forgot that the restaurant prepared a new recipe earlier that week .
+22,8,anglais,The shop owner told me what the baker forgot that the restaurant prepared earlier that week .
+22,9,anglais,The shop owner told me that the baker forgot whether the restaurant prepared a new recipe earlier that week .
+22,10,anglais,The shop owner told me that the baker forgot whether the restaurant prepared earlier that week .
+22,11,anglais,The shop owner told me what the baker forgot whether the restaurant prepared a new recipe earlier that week .
+22,12,anglais,The shop owner told me what the baker forgot whether the restaurant prepared earlier that week .
+23,1,anglais,My sister told me that our mother remembers the newspaper published a scandalous story last month .
+23,2,anglais,My sister told me that our mother remembers the newspaper published last month .
+23,3,anglais,My sister told me what our mother remembers the newspaper published a scandalous story last month .
+23,4,anglais,My sister told me what our mother remembers the newspaper published last month .
+23,5,anglais,My sister told me that our mother remembers that the newspaper published a scandalous story last month .
+23,6,anglais,My sister told me that our mother remembers that the newspaper published last month .
+23,7,anglais,My sister told me what our mother remembers that the newspaper published a scandalous story last month .
+23,8,anglais,My sister told me what our mother remembers that the newspaper published last month .
+23,9,anglais,My sister told me that our mother remembers whether the newspaper published a scandalous story last month .
+23,10,anglais,My sister told me that our mother remembers whether the newspaper published last month .
+23,11,anglais,My sister told me what our mother remembers whether the newspaper published a scandalous story last month .
+23,12,anglais,My sister told me what our mother remembers whether the newspaper published last month .
+24,1,anglais,We remember that the judge decided the lawyer must shred the evidence before the trial .
+24,2,anglais,We remember that the judge decided the lawyer must shred before the trial .
+24,3,anglais,We remember what the judge decided the lawyer must shred the evidence before the trial .
+24,4,anglais,We remember what the judge decided the lawyer must shred before the trial .
+24,5,anglais,We remember that the judge decided that the lawyer must shred the evidence before the trial .
+24,6,anglais,We remember that the judge decided that the lawyer must shred before the trial .
+24,7,anglais,We remember what the judge decided that the lawyer must shred the evidence before the trial .
+24,8,anglais,We remember what the judge decided that the lawyer must shred before the trial .
+24,9,anglais,We remember that the judge decided whether the lawyer must shred the evidence before the trial .
+24,10,anglais,We remember that the judge decided whether the lawyer must shred before the trial .
+24,11,anglais,We remember what the judge decided whether the lawyer must shred the evidence before the trial .
+24,12,anglais,We remember what the judge decided whether the lawyer must shred before the trial .
+must shred before the trial .;;;;
+24;9;anglais;We;remember;that;the judge;decided;whether the lawyer must shred the evidence before the trial;.;;;
+24;10;anglais;We;remember;that;the judge;decided;whether the lawyer must shred before the trial .;;;;
+24;11;anglais;We;remember;what;the judge;decided;whether the lawyer must shred the evidence before the trial;.;;;
+24;12;anglais;We;remember;what;the judge;decided;whether the lawyer must shred before the trial .;;;;

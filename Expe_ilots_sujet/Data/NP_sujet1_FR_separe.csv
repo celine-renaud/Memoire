@@ -1,0 +1,337 @@
+numero,variable,langue,phrase
+1,1,français,Je sais que tes larmes ont signalé une indication la nuit dernière .
+2,1,français,Je me souviens que nous avons tous contribué pour acheter le cadeau à la dernière minute .
+3,1,français,Le journal a rapporté que les critiques ont revu le roman dans la presse .
+4,1,français,Je sais que la famille a acheté le tableau l'année dernière .
+5,1,français,Vous vous souvenez que l'espion a vendu les instructions à notre grand regret .
+6,1,français,Elle m'a dit qu'il a eu une allergie depuis qu'il était jeune . 
+7,1,français,Elle sait que le portier a accepté la livraison mardi dernier .
+8,1,français,Nous nous souvenons tous que le facteur a perdu le colis dans la ruée des vacances . 
+9,1,français,Mon ami m'a rapporté que nous avons écouté la symphonie hier soir . 
+10,1,français,J'ai une idée à propos que j'ai vu la pièce hier soir .
+11,1,français,Elle peut deviner que mon ami a écrit un avant-propos pendant le week-end .
+12,1,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange à chaque fois qu'elle cuisinait .
+13,1,français,Nous rappelons que le blogueur a rédigé une critique en fin d'après-midi .
+14,1,français,Je me souviens que le politicien a écrit une diatribe hier soir .
+15,1,français,Notre ami a deviné que nous avons vu une photo hier après-midi .
+16,1,français,Le maire m'a dit que les journaux ont imprimé une photo deux jours après la bataille .
+17,1,français,Mon ami se souvient que le moine a rédigé une description il y a plus d'un an .  
+18,1,français,Le journal a dit que j'ai choisi le cadeau pendant mes vacances .  
+19,1,français,Notre voisine a dit qu'elle a gagné l'argument hier .
+20,1,français,Mon ami m'a dit qu'il a écrit une proposition hier soir .
+21,1,français,Elle ne peut pas croire que nous avons assisté à une conférence au printemps dernier .
+1,2,français,Je sais que tes larmes ont signalé hier soir .
+2,2,français,Je me souviens que nous avons tous contribué pour acheter à la dernière minute .
+3,2,français,Le journal a rapporté que les critiques ont revu dans la presse .
+4,2,français,Je sais que la famille a acheté l'année dernière .
+5,2,français,Vous vous souvenez que l'espion a vendu à notre grand regret .
+6,2,français,Elle m'a dit qu'il a eu depuis qu'il était jeune . 
+7,2,français,Elle sait que le portier a accepté mardi dernier .
+8,2,français,Nous nous souvenons tous que le facteur a perdu dans la ruée des vacances . 
+9,2,français,Mon ami m'a rapporté que nous avons écouté hier soir . 
+10,2,français,J'ai une idée à propos que j'ai vu hier soir .
+11,2,français,Elle peut deviner que mon ami a écrit pendant le week-end .
+12,2,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir à chaque fois qu'elle cuisinait .
+13,2,français,Nous rappelons que le blogueur a rédigé en fin d'après-midi .
+14,2,français,Je me souviens que le politicien a écrit hier soir .
+15,2,français,Notre ami a deviné que nous avons vu hier après-midi .
+16,2,français,Le maire m'a dit que les journaux ont imprimé deux jours après la bataille .
+17,2,français,Mon ami se souvient que le moine a rédigé il y a plus d'un an .  
+18,2,français,Le journal a dit que j'ai choisi pendant mes vacances . 
+19,2,français,Notre voisine a dit qu'elle a gagné hier .
+20,2,français,Mon ami m'a dit qu'il a écrit hier soir .
+21,2,français,Elle ne peut pas croire que nous avons assisté au printemps dernier .
+1,3,français,Je sais ce que tes larmes ont signalé une indication hier soir .
+2,3,français,Je me souviens ce que nous avons tous contribué pour acheter le cadeau à la dernière minute .
+3,3,français,Le journal a rapporté ce que les critiques ont revu le roman dans la presse .
+4,3,français,Je sais ce que la famille a acheté le tableau l'année dernière .
+5,3,français,Vous vous souvenez ce que l'espion a vendu les instructions à notre grand regret .
+6,3,français,Elle m'a dit ce qu'il a eu une allergie depuis qu'il était jeune . 
+7,3,français,Elle sait ce que le portier a accepté la livraison mardi dernier .
+8,3,français,Nous nous souvenons tous ce que le facteur a perdu le colis dans la ruée des vacances . 
+9,3,français,Mon ami m'a rapporté ce que nous avons écouté la symphonie hier soir . 
+10,3,français,J'ai une idée à propos de ce que j'ai vu la pièce hier soir .
+11,3,français,Elle peut deviner ce que mon ami a écrit un avant-propos pendant le week-end .
+12,3,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir d'un mélange à chaque fois qu'elle cuisinait .  
+13,3,français,Nous rappelons ce que le blogueur a rédigé une critique en fin d'après-midi .
+14,3,français,Je me souviens ce que le politicien a écrit une diatribe hier soir .
+15,3,français,Notre ami a deviné ce que nous avons vu une photo hier après-midi .
+16,3,français,Le maire m'a dit ce que les journaux ont imprimé une photo deux jours après la bataille .
+17,3,français,Mon ami se souvient ce que le moine a rédigé une description il y a plus d'un an . 
+18,3,français,Le journal a dit ce que j'ai choisi le cadeau pendant mes vacances .   
+19,3,français,Notre voisine a dit ce qu'elle a gagné l'argument hier .
+20,3,français,Mon ami m'a dit ce qu'il a écrit une proposition hier soir .
+21,3,français,Elle ne peut pas croire ce que nous avons assisté à une conférence au printemps dernier .
+1,4,français,Je sais ce que tes larmes ont signalé hier soir .
+2,4,français,Je me souviens ce que nous avons tous contribué pour acheter à la dernière minute .
+3,4,français,Le journal a rapporté ce que les critiques ont revu dans la presse .
+4,4,français,Je sais ce que la famille a acheté l'année dernière .
+5,4,français,Vous vous souvenez ce que l'espion a vendu à notre grand regret .
+6,4,français,Elle m'a dit ce qu'il a eu depuis qu'il était jeune . 
+7,4,français,Elle sait ce que le portier a accepté mardi dernier .
+8,4,français,Nous nous souvenons tous ce que le facteur a perdu dans la ruée des vacances . 
+9,4,français,Mon ami m'a rapporté ce que nous avons écouté hier soir . 
+10,4,français,J'ai une idée à propos de ce que j'ai vu hier soir .
+11,4,français,Elle peut deviner ce que mon ami a écrit pendant le week-end .
+12,4,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir à chaque fois qu'elle cuisinait . 
+13,4,français,Nous rappelons ce que le blogueur a rédigé en fin d'après-midi .
+14,4,français,Je me souviens ce que le politicien a écrit hier soir .
+15,4,français,Notre ami a deviné ce que nous avons vu hier après-midi .
+16,4,français,Le maire m'a dit ce que les journaux ont imprimé deux jours après la bataille .
+17,4,français,Mon ami se souvient ce que le moine a rédigé il y a plus d'un an . 
+18,4,français,Le journal a dit ce que j'ai choisi pendant mes vacances .
+19,4,français,Notre voisine a dit ce qu'elle a gagné hier .
+20,4,français,Mon ami m'a dit qu'il a écrit une proposition hier soir .
+21,4,français,Elle ne peut pas croire ce que nous avons assisté au printemps dernier .
+1,5,français,Je sais que tes larmes ont signalé une indication ce qui a signalé une dépression hier soir .
+2,5,français,Je me souviens que nous avons tous contribué pour acheter le cadeau lequel nous avons offert à Mary à la dernière minute .
+3,5,français,Le journal a rapporté que les critiques ont revu le roman qui a provoqué le célèbre auteur dans la presse .
+4,5,français,Je sais que la famille a acheté le tableau qui est représenté Monet l'année dernière .
+5,5,français,Vous vous souvenez que l'espion a vendu les instructions qui montraient comment utiliser le sous-marin à notre grand regret .
+6,5,français,Elle m'a dit qu'il a eu une allergie qui est causée par les cacahuètes depuis qu'il était jeune . 
+7,5,français,Elle sait que le portier a accepté la livraison ce qui a choqué Sarah mardi dernier .
+8,5,français,Nous nous souvenons tous que le facteur a perdu le colis ce que Sarah a décrit à Robert dans la ruée des vacances . 
+9,5,français,Mon ami m'a rapporté que nous avons écouté la symphonie laquelle était dédiée à Mozart hier soir . 
+10,5,français,J'ai une idée à propos que j'ai vu la pièce ce qui a ravi le comédien amateur hier soir .
+11,5,français,Elle peut deviner que mon ami a écrit un avant-propos qui présentait le nouveau manuscrit pendant le week-end .
+12,5,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange lequel incluait de l'huile et du vinaigre à chaque fois qu'elle cuisinait .  
+13,5,français,Nous rappelons que le blogueur a rédigé une critique laquelle visait l'industrie des combustibles fossiles en fin d'après-midi .
+14,5,français,Je me souviens que le politicien a écrit une diatribe qu'a critiqué le maire hier soir .
+15,5,français,Notre ami a deviné que nous avons vu une photo qui montrait le condamné hier après-midi . 
+16,5,français,Le maire m'a dit que les journaux ont imprimé une photo laquelle a choqué le public deux jours après la bataille .
+17,5,français,Mon ami se souvient que le moine a rédigé une description laquelle/qui se moquait de la vie de l'abbaye il y a plus d'un an . 
+18,5,français,Le journal a dit que j'ai choisi le cadeau que nous avons donné à Simon pendant mes vacances .  
+19,5,français,Notre voisine a dit qu'elle a gagné l'argument qui concernait la garde des enfants hier .
+20,5,français,Mon ami m'a dit qu'il a écrit une proposition laquelle il remettra au conseil d'administration hier soir .
+21,5,français,Elle ne peut pas croire que nous avons assisté à une conférence qui a popularisé l'évolution des cellules au printemps dernier .
+1,6,français,Je sais que tes larmes ont signalé une indication ce qui a signalé hier soir .
+2,6,français,Je me souviens que nous avons tous contribué pour acheter le cadeau lequel nous avons offert à la dernière minute .
+3,6,français,Le journal a rapporté que les critiques ont revu le roman qui a provoqué dans la presse .
+4,6,français,Je sais que la famille a acheté le tableau qui est représenté l'année dernière .
+5,6,français,Vous vous souvenez que l'espion a vendu les instructions qui montraient comment utiliser à notre grand regret .
+6,6,français,Elle m'a dit qu'il a eu une allergie qui est causé par depuis qu'il était jeune .
+7,6,français,Elle sait que le portier a accepté la livraison ce qui a choqué mardi dernier .
+8,6,français,Nous nous souvenons tous que le facteur a perdu le colis ce que Sarah a décrit dans la ruée des vacances . 
+9,6,français,Mon ami m'a rapporté que nous avons écouté la symphonie laquelle était dédiée hier soir . 
+10,6,français,J'ai une idée à propos que j'ai vu la pièce ce qui a ravi hier soir .
+11,6,français,Elle peut deviner que mon ami a écrit un avant-propos qui présentait pendant le week-end .
+12,6,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange lequel incluait à chaque fois qu'elle cuisinait .  
+13,6,français,Nous rappelons que le blogueur a rédigé une critique laquelle visait en fin d'après-midi .
+14,6,français,Je me souviens que le politicien a écrit une diatribe qu'a critiqué hier soir .
+15,6,français,Notre ami a deviné que nous avons vu une photo qui montrait hier après-midi . 
+16,6,français,Le maire m'a dit que les journaux ont imprimé une photo laquelle a choqué deux jours après la bataille .
+17,6,français,Mon ami se souvient que le moine a rédigé une description laquelle/qui se moquait il y a plus d'un an . 
+18,6,français,Le journal a dit que j'ai choisi le cadeau que nous avons donné pendant mes vacances .  
+19,6,français,Notre voisine a dit qu'elle a gagné l'argument qui concernait hier .
+20,6,français,Mon ami m'a dit qu'il a écrit une proposition laquelle il remettra hier soir .
+21,6,français,Elle ne peut pas croire que nous avons assisté à une conférence qui a popularisé au printemps dernier .
+1,7,français,Je sais ce que tes larmes ont signalé une indication ce qui a signalé une dépression hier soir .
+2,7,français,Je me souviens qui nous avons tous contribué pour acheter le cadeau lequel nous avons offert à Mary à la dernière minute .
+3,7,français,Le journal a rapporté qui les critiques ont revu le roman qui a provoqué le célèbre auteur dans la presse .
+4,7,français,Je sais qui la famille a acheté le tableau qui est représenté Monet l'année dernière .
+5,7,français,Vous vous souvenez ce que l'espion a vendu les instructions qui montraient comment utiliser le sous-marin à notre grand regret .
+6,7,français,Elle m'a dit ce qu'il a eu une allergie qui est causé par les cacahuètes depuis qu'il était jeune .
+7,7,français,Elle sait qui le portier a accepté la livraison ce qui a choqué Sarah mardi dernier .
+8,7,français,Nous nous souvenons tous qui le facteur a perdu le colis ce que Sarah a décrit à Robert dans la ruée des vacances . 
+9,7,français,Mon ami m'a rapporté qui nous avons écouté la symphonie laquelle était dédiée à Mozart hier soir . 
+10,7,français,J'ai une idée à propos de qui j'ai vu la pièce ce qui a ravi le comédien amateur hier soir .
+11,7,français,Elle peut deviner ce que mon ami a écrit un avant-propos qui présentait le nouveau manuscrit pendant le week-end .
+12,7,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir d'un mélange lequel incluait de l'huile et du vinaigre à chaque fois qu'elle cuisinait .  
+13,7,français,Nous rappelons ce que le blogueur a rédigé une critique laquelle visait l'industrie des combustibles fossiles en fin d'après-midi .
+14,7,français,Je me souviens qui le politicien a écrit une diatribe qu'a critiqué le maire hier soir .
+15,7,français,Notre ami a deviné qui nous avons vu une photo qui montrait le condamné hier après-midi . 
+16,7,français,Le maire m'a dit qui les journaux ont imprimé une photo laquelle a choqué le public deux jours après la bataille .
+17,7,français,Mon ami se souvient ce que le moine a rédigé une description qui se moquait de la vie de l'abbaye il y a plus d'un an . 
+18,7,français,Le journal a dit qui j'ai choisi le cadeau que nous avons donné à Simon pendant mes vacances .  
+19,7,français,Notre voisine a dit ce qu'elle a gagné l'argument qui concernait la garde des enfants hier .
+20,7,français,Mon ami m'a dit qu'il a écrit une proposition laquelle il remettra au conseil d'administration hier soir .
+21,7,français,Elle ne peut pas croire ce que nous avons assisté à une conférence qui a popularisé l'évolution des cellules au printemps dernier .
+1,8,français,Je sais ce que tes larmes ont signalé une indication ce qui a signalé hier soir .
+2,8,français,Je me souviens qui nous avons tous contribué pour acheter le cadeau lequel nous avons offert à la dernière minute .
+3,8,français,Le journal a rapporté qui les critiques ont revu le roman qui a provoqué dans la presse .
+4,8,français,Je sais qui la famille a acheté le tableau qui est représenté l'année dernière .
+5,8,français,Vous vous souvenez ce que l'espion a vendu les instructions qui montraient comment utiliser à notre grand regret .
+6,8,français,Elle m'a dit ce qu'il a eu une allergie qui est causé par depuis qu'il était jeune .
+7,8,français,Elle sait qui le portier a accepté la livraison ce qui a choqué mardi dernier .
+8,8,français,Nous nous souvenons tous qui le facteur a perdu le colis ce que Sarah a décrit dans la ruée des vacances . 
+9,8,français,Mon ami m'a rapporté qui nous avons écouté la symphonie laquelle était dédiée hier soir . 
+10,8,français,J'ai une idée à propos de qui j'ai vu la pièce ce qui a ravi hier soir .
+11,8,français,Elle peut deviner ce que mon ami a écrit un avant-propos qui présentait pendant le week-end .
+12,8,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir d'un mélange lequel incluait à chaque fois qu'elle cuisinait .  
+13,8,français,Nous rappelons ce que le blogueur a rédigé une critique laquelle visait en fin d'après-midi .
+14,8,français,Je me souviens qui le politicien a écrit une diatribe qu'a critiqué hier soir .
+15,8,français,Notre ami a deviné qui nous avons vu une photo qui montrait hier après-midi . 
+16,8,français,Le maire m'a dit qui les journaux ont imprimé une photo laquelle a choqué deux jours après la bataille .
+17,8,français,Mon ami se souvient ce que le moine a rédigé une description laquelle/qui se moquait il y a plus d'un an . 
+18,8,français,Le journal a dit qui j'ai choisi le cadeau que nous avons donné pendant mes vacances .  
+19,8,français,Notre voisine a dit ce qu'elle a gagné l'argument qui concernait hier .
+20,8,français,Mon ami m'a dit qu'il a écrit une proposition laquelle il remettra hier soir .
+21,8,français,Elle ne peut pas croire ce que nous avons assisté à une conférence qui a popularisé au printemps dernier .
+1,9,français,Je sais que tes larmes ont signalé une indication qui a signalé une dépression hier soir .
+2,9,français,Je me souviens que nous avons tous contribué pour acheter le cadeau que nous avons offert à Mary à la dernière minute .
+3,9,français,Le journal a rapporté que les critiques ont revu le roman qu'a provoqué le célèbre auteur dans la presse .
+4,9,français,Je sais que la famille a acheté le tableau qu'est représenté Monet l'année dernière .
+5,9,français,Vous vous souvenez que l'espion a vendu les instructions que montraient comment utiliser le sous-marin à notre grand regret .
+6,9,français,Elle m'a dit qu'il a eu une allergie qu'est causé par les cacahuètes depuis qu'il était jeune .
+7,9,français,Elle sait que le portier a accepté la livraison qu'a choqué Sarah mardi dernier .
+8,9,français,Nous nous souvenons tous que le facteur a perdu le colis que Sarah a décrit à Robert dans la ruée des vacances . 
+9,9,français,Mon ami m'a rapporté que nous avons écouté la symphonie qu'était dédiée à Mozart hier soir . 
+10,9,français,J'ai une idée à propos que j'ai vu la pièce qu'a ravi le comédien amateur hier soir .
+11,9,français,Elle peut deviner que mon ami a écrit un avant-propos que présentait le nouveau manuscrit pendant le week-end .
+12,9,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange qu'incluait de l'huile et du vinaigre à chaque fois qu'elle cuisinait .  
+13,9,français,Nous rappelons que le blogueur a rédigé une critique que visait l'industrie des combustibles fossiles en fin d'après-midi .
+14,9,français,Je me souviens que le politicien a écrit une diatribe qu'a critiqué le maire hier soir .
+15,9,français,Notre ami a deviné que nous avons vu une photo que montrait le condamné hier après-midi . 
+16,9,français,Le maire m'a dit que les journaux ont imprimé une photo qu'a choqué le public deux jours après la bataille .
+17,9,français,Mon ami se souvient que le moine a rédigé une description que se moquait de la vie de l'abbaye il y a plus d'un an . 
+18,9,français,Le journal a dit que j'ai choisi le cadeau que nous avons donné à Simon pendant mes vacances .  
+19,9,français,Notre voisine a dit qu'elle a gagné l'argument que concernait la garde des enfants hier .
+20,9,français,Mon ami m'a dit qu'il a écrit une proposition qu'il remettra au conseil d'administration hier soir .
+21,9,français,Elle ne peut pas croire que nous avons assisté à une conférence qu'a popularisé l'évolution des cellules au printemps dernier .
+1,10,français,Je sais que tes larmes ont signalé une indication qui a signalé hier soir .
+2,10,français,Je me souviens que nous avons tous contribué pour acheter le cadeau que nous avons offert à la dernière minute .
+3,10,français,Le journal a rapporté que les critiques ont revu le roman qu'a provoqué dans la presse .
+4,10,français,Je sais que la famille a acheté le tableau qu'est représenté l'année dernière .
+5,10,français,Vous vous souvenez que l'espion a vendu les instructions qui montraient comment utiliser à notre grand regret .
+6,10,français,Elle m'a dit qu'il a eu une allergie qui est causé par depuis qu'il était jeune .
+7,10,français,Elle sait que le portier a accepté la livraison qu'a choqué mardi dernier .
+8,10,français,Nous nous souvenons tous que le facteur a perdu le colis ce que Sarah a décrit dans la ruée des vacances . 
+9,10,français,Mon ami m'a rapporté que nous avons écouté la symphonie qu'était dédiée hier soir . 
+10,10,français,J'ai une idée à propos que j'ai vu la pièce qu'a ravi hier soir .
+11,10,français,Elle peut deviner que mon ami a écrit un avant-propos que présentait pendant le week-end .
+12,10,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange qu'incluait à chaque fois qu'elle cuisinait .  
+13,10,français,Nous rappelons que le blogueur a rédigé une critique que visait en fin d'après-midi .
+14,10,français,Je me souviens que le politicien a écrit une diatribe qu'a critiqué hier soir .
+15,10,français,Notre ami a deviné que nous avons vu une photo que montrait hier après-midi . 
+16,10,français,Le maire m'a dit que les journaux ont imprimé une photo qu'a choqué deux jours après la bataille .
+17,10,français,Mon ami se souvient que le moine a rédigé une description que se moquait il y a plus d'un an . 
+18,10,français,Le journal a dit que j'ai choisi le cadeau que nous avons donné pendant mes vacances .  
+19,10,français,Notre voisine a dit qu'elle a gagné l'argument que concernait hier .
+20,10,français,Mon ami m'a dit qu'il a écrit une proposition qu'il remettra hier soir .
+21,10,français,Elle ne peut pas croire que nous avons assisté à une conférence qu'a popularisé au printemps dernier .
+1,11,français,Je sais ce que tes larmes ont signalé une indication qui a signalé une dépression hier soir .
+2,11,français,Je me souviens qui nous avons tous contribué pour acheter le cadeau que nous avons offert à Mary à la dernière minute .
+3,11,français,Le journal a rapporté qui les critiques ont revu le roman qu'a provoqué le célèbre auteur dans la presse .
+4,11,français,Je sais qui la famille a acheté le tableau qu'est représenté Monet l'année dernière .
+5,11,français,Vous vous souvenez ce que l'espion a vendu les instructions que montraient comment utiliser le sous-marin à notre grand regret .
+6,11,français,Elle m'a dit ce qu'il a eu une allergie qu'est causé par les cacahuètes depuis qu'il était jeune .
+7,11,français,Elle sait qui le portier a accepté la livraison qu'a choqué Sarah mardi dernier .
+8,11,français,Nous nous souvenons tous qui le facteur a perdu le colis que Sarah a décrit à Robert dans la ruée des vacances . 
+9,11,français,Mon ami m'a rapporté qui nous avons écouté la symphonie qu'était dédiée à Mozart hier soir . 
+10,11,français,J'ai une idée à propos qui j'ai vu la pièce qu'a ravi le comédien amateur hier soir .
+11,11,français,Elle peut deviner ce que mon ami a écrit un avant-propos qui présentait le nouveau manuscrit pendant le week-end .
+12,11,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir d'un mélange qu'incluait de l'huile et du vinaigre à chaque fois qu'elle cuisinait .  
+13,11,français,Nous rappelons ce que le blogueur a rédigé une critique que visait l'industrie des combustibles fossiles en fin d'après-midi .
+14,11,français,Je me souviens qui le politicien a écrit une diatribe qu'a critiqué le maire hier soir .
+15,11,français,Notre ami a deviné qui nous avons vu une photo que montrait le condamné hier après-midi . 
+16,11,français,Le maire m'a dit qui les journaux ont imprimé une photo qu'a choqué le public deux jours après la bataille .
+17,11,français,Mon ami se souvient ce que le moine a rédigé une description que se moquait de la vie de l'abbaye il y a plus d'un an . 
+18,11,français,Le journal a dit qui j'ai choisi le cadeau que nous avons donné à Simon pendant mes vacances .  
+19,11,français,Notre voisine a dit ce qu'elle a gagné l'argument que concernait la garde des enfants hier .
+20,11,français,Mon ami m'a dit qu'il a écrit une proposition qu'il remettra au conseil d'administration hier soir .
+21,11,français,Elle ne peut pas croire ce que nous avons assisté à une conférence qu'a popularisé l'évolution des cellules au printemps dernier .
+1,12,français,Je sais ce que tes larmes ont signalé une indication qui a signalé hier soir .
+2,12,français,Je me souviens qui/ à qui nous avons tous contribué pour acheter le cadeau que nous avons offert à la dernière minute .
+3,12,français,Le journal a rapporté qui les critiques ont revu le roman qu'a provoqué dans la presse .
+4,12,français,Je sais que la famille a acheté le tableau qu'est représenté l'année dernière .
+5,12,français,Vous vous souvenez ce que l'espion a vendu les instructions que montraient comment utiliser à notre grand regret .
+6,12,français,Elle m'a dit qu'il a eu une allergie qui est causé par depuis qu'il était jeune .
+7,12,français,Elle sait qui le portier a accepté la livraison qu'a choqué mardi dernier .
+8,12,français,Nous nous souvenons tous qui le facteur a perdu le colis ce que Sarah a décrit dans la ruée des vacances . 
+9,12,français,Mon ami m'a rapporté qui nous avons écouté la symphonie qu'était dédiée hier soir . 
+10,12,français,J'ai une idée à propos qui j'ai vu la pièce qu'a ravi hier soir .
+11,12,français,Elle peut deviner ce que mon ami a écrit un avant-propos qui présentait pendant le week-end .
+12,12,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir d'un mélange qu'incluait à chaque fois qu'elle cuisinait .  
+13,12,français,Nous rappelons ce que le blogueur a rédigé une critique que visait en fin d'après-midi .
+14,12,français,Je me souviens qui le politicien a écrit une diatribe qu'a critiqué le maire hier soir .
+15,12,français,Notre ami a deviné qui nous avons vu une photo qui montrait hier après-midi . 
+16,12,français,Le maire m'a dit qui les journaux ont imprimé une photo qu'a choqué deux jours après la bataille .
+17,12,français,Mon ami se souvient ce que le moine a rédigé une description que se moquait il y a plus d'un an . 
+18,12,français,Le journal a dit qui j'ai choisi le cadeau que nous avons donné pendant mes vacances .  
+19,12,français,Notre voisine a dit ce qu'elle a gagné l'argument que concernait hier .
+20,12,français,Mon ami m'a dit qu'il a écrit une proposition qu'il remettra hier soir .
+21,12,français,Elle ne peut pas croire que nous avons assisté à une conférence qu'a popularisé  au printemps dernier .
+1,13,français,Je sais que tes larmes ont signalé une indication de dépression hier soir .
+2,13,français,Je me souviens que nous avons tous contribué pour acheter le cadeau pour Mary à la dernière minute .
+3,13,français,Le journal a rapporté que les critiques ont revu le roman du célèbre auteur dans la presse .
+4,13,français,Je sais que la famille a acheté le tableau de Monet l'année dernière .
+5,13,français,Vous vous souvenez que l'espion a vendu les instructions pour le sous-marin à notre grand regret .
+6,13,français,Elle m'a dit qu'il a eu une allergie aux cacahuètes depuis qu'il était jeune .
+7,13,français,Elle sait que le portier a accepté la livraison pour Sarah mardi dernier .
+8,13,français,Nous nous souvenons tous que le facteur a perdu le colis pour Robert dans la ruée des vacances . 
+9,13,français,Mon ami m'a rapporté que nous avons écouté la symphonie de Mozart hier soir . 
+10,13,français,J'ai une idée à propos que j'ai vu la pièce du comédien amateur hier soir .
+11,13,français,Elle peut deviner que mon ami a écrit un avant-propos pour le nouveau manuscrit pendant le week-end .
+12,13,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange de l'huile et du vinaigre à chaque fois qu'elle cuisinait .  
+13,13,français,Nous rappelons que le blogueur a rédigé une critique de l'industrie des combustibles fossiles en fin d'après-midi .
+14,13,français,Je me souviens que le politicien a écrit une diatribe contre le maire hier soir .
+15,13,français,Notre ami a deviné que nous avons vu une photo du condamné hier après-midi . 
+16,13,français,Le maire m'a dit que les journaux ont imprimé une photo du général deux jours après la bataille .
+17,13,français,Mon ami se souvient que le moine a rédigé une description de la vie de l'abbaye il y a plus d'un an . 
+18,13,français,Le journal a dit que j'ai choisi le cadeau pour Simon pendant mes vacances .  
+19,13,français,Notre voisine a dit qu'elle a gagné l'argument sur la garde des enfants hier .
+20,13,français,Mon ami m'a dit qu'il a écrit une proposition pour conseil d'administration hier soir .
+21,13,français,Elle ne peut pas croire que nous avons assisté à une conférence sur l'évolution des cellules au printemps dernier .
+1,14,français,Je sais que tes larmes ont signalé une indication de hier soir .
+2,14,français,Je me souviens que nous avons tous contribué pour acheter le cadeau pour à la dernière minute .
+3,14,français,Le journal a rapporté que les critiques ont revu le roman du dans la presse .
+4,14,français,Je sais que la famille a acheté le tableau de l'année dernière .
+5,14,français,Vous vous souvenez que l'espion a vendu les instructions pour à notre grand regret .
+6,14,français,Elle m'a dit qu'il a eu une allergie depuis qu'il était jeune .
+7,14,français,Elle sait que le portier a accepté la livraison mardi dernier .
+8,14,français,Nous nous souvenons tous que le facteur a perdu le colis dans la ruée des vacances . 
+9,14,français,Mon ami m'a rapporté que nous avons écouté la symphonie hier soir . 
+10,14,français,J'ai une idée à propos que j'ai vu la pièce hier soir .
+11,14,français,Elle peut deviner que mon ami a écrit un avant-propos pour pendant le week-end .
+12,14,français,Le journal a rapporté qu'elle préparait la vinaigrette à partir d'un mélange de à chaque fois qu'elle cuisinait .  
+13,14,français,Nous rappelons que le blogueur a rédigé une critique de en fin d'après-midi .
+14,14,français,Je me souviens que le politicien a écrit une diatribe contre hier soir .
+15,14,français,Notre ami a deviné que nous avons vu une photo du hier après-midi . 
+16,14,français,Le maire m'a dit que les journaux ont imprimé une photo du deux jours après la bataille .
+17,14,français,Mon ami se souvient que le moine a rédigé une description de il y a plus d'un an . 
+18,14,français,Le journal a dit que j'ai choisi le cadeau pour pendant mes vacances .  
+19,14,français,Notre voisine a dit qu'elle a gagné l'argument sur hier .
+20,14,français,Mon ami m'a dit qu'il a écrit une proposition pour hier soir .
+21,14,français,Elle ne peut pas croire que nous avons assisté à une conférence sur au printemps dernier .
+1,15,français,Je sais ce que tes larmes ont signalé une indication de dépression hier soir .
+2,15,français,Je me souviens qui nous avons tous contribué pour acheter le cadeau pour Mary à la dernière minute .
+3,15,français,Le journal a rapporté qui les critiques ont revu le roman du célèbre auteur dans la presse .
+4,15,français,Je sais qui la famille a acheté le tableau de Monet l'année dernière .
+5,15,français,Vous vous souvenez ce que l'espion a vendu les instructions pour le sous-marin à notre grand regret .
+6,15,français,Elle m'a dit ce qu'il a eu une allergie aux cacahuètes depuis qu'il était jeune .
+7,15,français,Elle sait qui le portier a accepté la livraison pour Sarah mardi dernier .
+8,15,français,Nous nous souvenons tous qui le facteur a perdu le colis pour Robert dans la ruée des vacances . 
+9,15,français,Mon ami m'a rapporté qui nous avons écouté la symphonie de Mozart hier soir . 
+10,15,français,J'ai une idée à propos qui j'ai vu la pièce du comédien amateur hier soir .
+11,15,français,Elle peut deviner ce que mon ami a écrit un avant-propos pour le nouveau manuscrit pendant le week-end .
+12,15,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir d'un mélange de l'huile et du vinaigre à chaque fois qu'elle cuisinait .  
+13,15,français,Nous rappelons ce que le blogueur a rédigé une critique de l'industrie des combustibles fossiles en fin d'après-midi .
+14,15,français,Je me souviens qui le politicien a écrit une diatribe contre le maire hier soir .
+15,15,français,Notre ami a deviné qui nous avons vu une photo du condamné hier après-midi . 
+16,15,français,Le maire m'a dit qui les journaux ont imprimé une photo du général deux jours après la bataille .
+17,15,français,Mon ami se souvient ce que le moine a rédigé une description de la vie de l'abbaye il y a plus d'un an . 
+18,15,français,Le journal a dit qui j'ai choisi le cadeau pour Simon pendant mes vacances .  
+19,15,français,Notre voisine a dit ce qu'elle a gagné l'argument sur la garde des enfants hier .
+20,15,français,Mon ami m'a dit qu'il a écrit une proposition pour conseil d'administration hier soir .
+21,15,français,Elle ne peut pas croire ce que nous avons assisté à une conférence sur l'évolution des cellules au printemps dernier .
+1,16,français,Je sais ce que tes larmes ont signalé une indication de hier soir .
+2,16,français,Je me souviens qui nous avons tous contribué pour acheter le cadeau pour à la dernière minute .
+3,16,français,Le journal a rapporté qui les critiques ont revu le roman du dans la presse .
+4,16,français,Je sais qui la famille a acheté le tableau de l'année dernière .
+5,16,français,Vous vous souvenez ce que l'espion a vendu les instructions à notre grand regret .
+6,16,français,Elle m'a dit ce qu'il a eu une allergie depuis qu'il était jeune .
+7,16,français,Elle sait qui le portier a accepté la livraison pour mardi dernier .
+8,16,français,Nous nous souvenons tous qui le facteur a perdu le colis pour dans la ruée des vacances . 
+9,16,français,Mon ami m'a rapporté qui nous avons écouté la symphonie de hier soir . 
+10,16,français,J'ai une idée à propos qui j'ai vu la pièce du hier soir .
+11,16,français,Elle peut deviner ce que mon ami a écrit un avant-propos pour pendant le week-end .
+12,16,français,Le journal a rapporté ce qu'elle préparait la vinaigrette à partir de à chaque fois qu'elle cuisinait .  
+13,16,français,Nous rappelons ce que le blogueur a rédigé une critique de en fin d'après-midi .
+14,16,français,Je me souviens qui le politicien a écrit une diatribe contre hier soir .
+15,16,français,Notre ami a deviné qui nous avons vu une photo du hier après-midi . 
+16,16,français,Le maire m'a dit qui les journaux ont imprimé une photo du deux jours après la bataille .
+17,16,français,Mon ami se souvient ce que le moine a rédigé une description de il y a plus d'un an . 
+18,16,français,Le journal a dit qui j'ai choisi le cadeau pour pendant mes vacances .  
+19,16,français,Notre voisine a dit ce qu'elle a gagné l'argument sur hier .
+20,16,français,Mon ami m'a dit qu'il a écrit une proposition pour hier soir .
+21,16,français,Elle ne peut pas croire ce que nous avons assisté à une conférence sur au printemps dernier .
